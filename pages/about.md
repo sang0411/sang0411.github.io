@@ -48,9 +48,9 @@ Hello! 반갑습니다.
 
 **동아쏘시오그룹 DA인포메이션**
 
-<span style="color:#ff0a16">* Rank :</span> 대리
-<span style="color:#ff0a16">* Position :</span> Web Design / App Design / Publising
-<span style="color:#ff0a16">* Employment period :</span> 2016년 10월 ~ 재직중
+* <span style="color:#ff0a16">Rank :</span> 대리
+* <span style="color:#ff0a16">Position :</span> Web Design / App Design / Publising
+* <span style="color:#ff0a16">Employment period :</span> 2016년 10월 ~ 재직중
 <p></p>
 * 2020.12 ~ 2021.03   아벤종합건설 홈페이지 구축
 * 2019.12 ~ 2020.04   동아쏘시오그룹 '정도경영(鼎道經營)-GAMASOT' 홈페이지 구축
@@ -76,9 +76,9 @@ Hello! 반갑습니다.
 
 **DL company**
 
-<span style="color:#ff0a16">* Rank :</span> 사원
-<span style="color:#ff0a16">* Position :</span> Web Design / Edit Design / Video Design 
-<span style="color:#ff0a16">* Employment period :</span> 2015년 05월 ~ 2016년 06월
+* <span style="color:#ff0a16">Rank :</span> 사원
+* <span style="color:#ff0a16">Position :</span> Web Design / Edit Design / Video Design 
+* <span style="color:#ff0a16">Employment period :</span> 2015년 05월 ~ 2016년 06월
 <p></p>
 * 2016.05 ~ 2016.06   담소유병원 '유방갑상선' Brochure 제작
 * 2016.03 ~ 2016.05   담소유병원 '하지정맥류' Book 제작
@@ -96,9 +96,9 @@ Hello! 반갑습니다.
 
 **(주)면사랑**
 
-<span style="color:#ff0a16">* Rank :</span> 수습사원
-<span style="color:#ff0a16">* Position :</span> Edit Design / Package Design 
-<span style="color:#ff0a16">* Employment period :</span> 2014년 12월 ~ 2015년 03월
+* <span style="color:#ff0a16">Rank :</span> 수습사원
+* <span style="color:#ff0a16">Position :</span> Edit Design / Package Design 
+* <span style="color:#ff0a16">Employment period :</span> 2014년 12월 ~ 2015년 03월
 <p></p>
 * 2015.02 ~ 2015.03   면사랑 '영업사원용' 카타로그 제작
 * 2015.02 ~ 2015.03   면사랑 '냉동탑차' 그래픽 리뉴얼

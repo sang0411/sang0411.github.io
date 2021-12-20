@@ -22,21 +22,21 @@ Hello! 반갑습니다.
 
 <span style="color:#ff0a16">**Name :**</span> 이상현
 
-**Date of birth :** 90.11.07 
+<span style="color:#ff0a16">**Date of birth :**</span> 90.11.07 
 
-**Position :** Web Design / App Design / Publising / Edit Design 
+<span style="color:#ff0a16">**Position :**</span> Web Design / App Design / Publising / Edit Design 
 
-**Skill :** Adobe Photoshop / Adobe Illustrator / Adobe Indesign / HTML / CSS / Wordpress / Figma
+<span style="color:#ff0a16">**Skill :**</span> Adobe Photoshop / Adobe Illustrator / Adobe Indesign / HTML / CSS / Wordpress / Figma
 
-**Mail :** 2003lsh2003@naver.com
+<span style="color:#ff0a16">**Mail :**</span> 2003lsh2003@naver.com
 
 
-**Education :** 
+<span style="color:#ff0a16">**Education :**</span> 
 * 2009.03 ~ 2015.02   백석대학교 / 충남 / 시각디자인 / 졸업 / 4.03(4.5만점)
 * 2006.03 ~ 2009.02   병점고등학교 / 경기 / 졸업
 
 
-**Military :** 
+<span style="color:#ff0a16">**Military :**</span> 
 * 군필 / 2010.01.12 ~ 2011.11.01
 * 육군 / 병장 / 만기제대
 * 2011.03   우수모범병사 표창장 / 72연대장
@@ -48,9 +48,9 @@ Hello! 반갑습니다.
 
 **동아쏘시오그룹 DA인포메이션**
 
-* Rank : 대리
-* Position : Web Design / App Design / Publising
-* Employment period : 2016년 10월 ~ 재직중
+<span style="color:#ff0a16">* Rank :</span> 대리
+<span style="color:#ff0a16">* Position :</span> Web Design / App Design / Publising
+<span style="color:#ff0a16">* Employment period :</span> 2016년 10월 ~ 재직중
 <p></p>
 * 2020.12 ~ 2021.03   아벤종합건설 홈페이지 구축
 * 2019.12 ~ 2020.04   동아쏘시오그룹 '정도경영(鼎道經營)-GAMASOT' 홈페이지 구축
@@ -76,9 +76,9 @@ Hello! 반갑습니다.
 
 **DL company**
 
-* Rank : 사원
-* Position : Web Design / Edit Design / Video Design 
-* Employment period : 2015년 05월 ~ 2016년 06월
+<span style="color:#ff0a16">* Rank :</span> 사원
+<span style="color:#ff0a16">* Position :</span> Web Design / Edit Design / Video Design 
+<span style="color:#ff0a16">* Employment period :</span> 2015년 05월 ~ 2016년 06월
 <p></p>
 * 2016.05 ~ 2016.06   담소유병원 '유방갑상선' Brochure 제작
 * 2016.03 ~ 2016.05   담소유병원 '하지정맥류' Book 제작
@@ -96,9 +96,9 @@ Hello! 반갑습니다.
 
 **(주)면사랑**
 
-* Rank : 수습사원
-* Position : Edit Design / Package Design 
-* Employment period : 2014년 12월 ~ 2015년 03월
+<span style="color:#ff0a16">* Rank :</span> 수습사원
+<span style="color:#ff0a16">* Position :</span> Edit Design / Package Design 
+<span style="color:#ff0a16">* Employment period :</span> 2014년 12월 ~ 2015년 03월
 <p></p>
 * 2015.02 ~ 2015.03   면사랑 '영업사원용' 카타로그 제작
 * 2015.02 ~ 2015.03   면사랑 '냉동탑차' 그래픽 리뉴얼

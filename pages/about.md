@@ -5,6 +5,10 @@ description: Some description.
 permalink: "/about/"
 ---
 
+<style>
+.post-content h1{max-width:100%;}
+</style>
+
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
 # Sang-hyun Lee

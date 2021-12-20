@@ -96,7 +96,7 @@ Hello! 반갑습니다.
 
 * Rank : 수습사원
 * Position : Edit Design / Package Design
-* Employment period : 2014년 12월 ~ 2015년 03월
+- Employment period : 2014년 12월 ~ 2015년 03월
 
 * 2015.02 ~ 2015.03   면사랑 '영업사원용' 카타로그 제작
 * 2015.02 ~ 2015.03   면사랑 '냉동탑차' 그래픽 리뉴얼

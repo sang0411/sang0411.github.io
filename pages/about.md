@@ -52,8 +52,6 @@ Hello! 반갑습니다.
 * Rank : 대리
 * Position : Web Design / App Design / Publising
 * Employment period : 2016년 10월 ~ 재직중
-<p></p>
-<p></p>
 
 * 2020.12 ~ 2021.03   아벤종합건설 홈페이지 구축
 * 2019.12 ~ 2020.04   동아쏘시오그룹 '정도경영(鼎道經營)-GAMASOT' 홈페이지 구축
@@ -82,8 +80,6 @@ Hello! 반갑습니다.
 * Rank : 사원
 * Position : Web Design / Edit Design / Video Design 
 * Employment period : 2015년 05월 ~ 2016년 06월
-<p></p>
-<p></p>
 
 * 2016.05 ~ 2016.06   담소유병원 '유방갑상선' Brochure 제작
 * 2016.03 ~ 2016.05   담소유병원 '하지정맥류' Book 제작
@@ -104,8 +100,6 @@ Hello! 반갑습니다.
 * Rank : 수습사원
 * Position : Edit Design / Package Design 
 * Employment period : 2014년 12월 ~ 2015년 03월
-<p></p>
-<p></p>
 
 * 2015.02 ~ 2015.03   면사랑 '영업사원용' 카타로그 제작
 * 2015.02 ~ 2015.03   면사랑 '냉동탑차' 그래픽 리뉴얼

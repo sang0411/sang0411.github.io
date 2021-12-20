@@ -20,25 +20,24 @@ Hello! 반갑습니다.
 
 # Profile
 
-Name : 이상현
+**Name :** 이상현
 
-Date of birth : 90.11.07 
+**Date of birth :** 90.11.07 
 
-Position : Web Design / App Design / Publising / Edit Design 
+**Position :** Web Design / App Design / Publising / Edit Design 
 
-Skill : Adobe Photoshop / Adobe Illustrator / Adobe Indesign / HTML / CSS / Wordpress / Figma
+**Skill :** Adobe Photoshop / Adobe Illustrator / Adobe Indesign / HTML / CSS / Wordpress / Figma
 
-Mail : 2003lsh2003@naver.com
+**Mail : **2003lsh2003@naver.com
 
-Education :
+**Education :**
 
 - 2009.03 ~ 2015.02   백석대학교 / 충남 / 시각디자인 / 졸업 / 4.03(4.5만점)
 - 2006.03 ~ 2009.02   병점고등학교 / 경기 / 졸업
 
 
 
-Military Service : 
-
+**Military Service : **
 · 군필 / 2010.01.12 ~ 2011.11.01
 · 육군 / 병장 / 만기제대
 

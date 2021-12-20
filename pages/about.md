@@ -36,7 +36,7 @@ Hello! 반갑습니다.
 
 
 
-**Military Service :** 
+**Military :** 
 * 군필 / 2010.01.12 ~ 2011.11.01
 * 육군 / 병장 / 만기제대
 
@@ -46,7 +46,7 @@ Hello! 반갑습니다.
 
 **Career :** 
 
-＜동아쏘시오그룹 DA인포메이션＞
+**＜동아쏘시오그룹 DA인포메이션＞**
 
 * Rank : 대리
 * Position : Web Design / App Design / Publising

@@ -7,6 +7,7 @@ permalink: "/about/"
 
 <style>
 .post-content h1{max-width:100%;}
+.post-content p{max-width:100%;}
 </style>
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">

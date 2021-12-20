@@ -10,6 +10,7 @@ permalink: "/about/"
 .post-content p{max-width:100%; padding: 0 3.25rem;}
 .post-content ul {max-width:100%; padding: 0 3.25rem;}
 .post-content ul li{float:left; list-style:none;}
+.post-content ul li:first-child{margin-right:30px;}
 </style>
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">

@@ -6,6 +6,7 @@ permalink: "/about/"
 ---
 
 <style>
+.post-content{width:65%; text-align:left;}
 .post-content h1{max-width:100%; padding: 0 3.25rem;}
 .post-content p{max-width:100%; padding: 0 3.25rem;}
 .post-content ul {max-width:100%; padding: 0 3.25rem; margin:0;}

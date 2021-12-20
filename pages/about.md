@@ -36,7 +36,7 @@ Hello! 반갑습니다.
 
 
 
-**Military Service : ** 
+**Military Service :** 
 *  군필 / 2010.01.12 ~ 2011.11.01
 *  육군 / 병장 / 만기제대
 

@@ -6,8 +6,8 @@ permalink: "/about/"
 ---
 
 <style>
-.post-content h1{max-width:100%;}
-.post-content p{max-width:100%;}
+.post-content h1{max-width:100%; padding: 0 3.25rem;}
+.post-content p{max-width:100%; padding: 0 3.25rem;}
 </style>
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
@@ -57,7 +57,9 @@ Hello! 반갑습니다.
 <span style="color:#ff0a16">Position :</span> Web Design / App Design / Publising<br>
 <span style="color:#ff0a16">Employment period :</span> 2016년 10월 ~ 재직중<br>
 <p></p>
-　- 2020.12 ~ 2021.03　　아벤종합건설 홈페이지 구축<br>
+2020.12 ~ 2021.03<br>
+아벤종합건설 홈페이지 구축<br>
+<br>
 　- 2019.12 ~ 2020.04　　동아쏘시오그룹 '정도경영(鼎道經營)-GAMASOT' 홈페이지 구축<br>
 　- 2019.11 ~ 2020.03　　동아제약 '2019 마이보라&멜리안' 브랜드 홈페이지 리뉴얼 구축<br>
 　- 2019.06 ~ 2019.11　　DA인포메이션 '키드키득' App 구축<br>

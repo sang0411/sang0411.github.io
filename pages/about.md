@@ -76,7 +76,7 @@ Hello! 반갑습니다.
 **DL company**
 
 * Rank : 사원
-* Position : Web Design / Edit Design / Video Design
+* Position : Web Design / Edit Design / Video Design 
 * Employment period : 2015년 05월 ~ 2016년 06월
 
 * 2016.05 ~ 2016.06   담소유병원 '유방갑상선' Brochure 제작
@@ -95,7 +95,7 @@ Hello! 반갑습니다.
 **(주)면사랑**
 
 * Rank : 수습사원
-* Position : Edit Design / Package Design
+* Position : Edit Design / Package Design 
 * Employment period : 2014년 12월 ~ 2015년 03월
 
 * 2015.02 ~ 2015.03   면사랑 '영업사원용' 카타로그 제작

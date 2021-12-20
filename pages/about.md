@@ -114,7 +114,7 @@ Hello! 반갑습니다.
 * 2012.04   GTQ포토샵1급 / 한국생산성본부(KPC)
 
 
-**Awards : **
+**Awards :**
 
 * 2021.12   2021 Web Award Korea 최우수상 / 한국인터넷전문가협회
 * 2020.12   2020 App Award Korea 최우수상 / 한국인터넷전문가협회
@@ -133,7 +133,7 @@ Hello! 반갑습니다.
 
 
 
-**Outdoor activities : **
+**Outdoor activities :**
 
 * 2018.11 ~ 현재      Web Award Korea / 사회활동 / Web Award Korea, App Award Korea 최우수평가위원
 * 2014.12 ~ 2015.03   광화문역 라파엘의 집 / 자원봉사 / 정신지체 아이들을 위한 목욕 및 청소 봉사활동

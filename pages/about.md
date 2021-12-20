@@ -20,7 +20,7 @@ Hello! 반갑습니다.
 
 # Profile
 
-<font color="#fff">**Name :**</font> 이상현
+<span style="color:#ccc">**Name :**</span> 이상현
 
 **Date of birth :** 90.11.07 
 

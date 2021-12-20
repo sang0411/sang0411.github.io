@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 
 <style>
-.post-content{width:65%; text-align:left;}
+.post-content{width:100%; text-align:left;}
 .post-content h1{max-width:100%; padding: 0 3.25rem;}
 .post-content p{max-width:100%; padding: 0 3.25rem;}
 .post-content ul {max-width:100%; padding: 0 3.25rem; margin:0;}
@@ -14,7 +14,7 @@ permalink: "/about/"
 .post-content ul li:first-child{margin-right:30px;}
 </style>
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<!-- <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200"> -->
 
 # Sang-hyun Lee
 

@@ -236,6 +236,7 @@ Hello! 반갑습니다.
 <p></p>
 
 # Certificate
+<br>
 <ul>
     <li>- 2013.08</li>
     <li>한국사능력검정시험2급 / 국사편찬위원회</li>
@@ -254,7 +255,9 @@ Hello! 반갑습니다.
 </ul>
 <p></p>
 <p></p>
+
 # Awards
+<br>
 <ul>
     <li>- 2021.12</li>
     <li>2021 Web Award Korea 최우수상 / 한국인터넷전문가협회</li>
@@ -315,6 +318,7 @@ Hello! 반갑습니다.
 <p></p>
 
 # Outdoor activities
+<br>
 <ul>
     <li>- 2018.11 ~ 현재</li>
     <li>Web Award Korea / 사회활동 / Web Award Korea, App Award Korea 최우수평가위원</li>

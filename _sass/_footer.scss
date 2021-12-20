@@ -15,6 +15,7 @@ footer {
   padding: rem(20px) rem(25px);
   margin-top: rem(50px);
   margin-bottom: rem(120px);
+  max-width:100%;
   @include mainFont(300);
 
   @include media(">=sm") {

@@ -18,6 +18,8 @@ paginate: true
 ---
 
 <link rel="stylesheet" href="/assets/css/slide.css">
+<link rel="stylesheet" href="/assets/css/slick.css">
+<link rel="stylesheet" href="/assets/css/slick-theme.css">
 
 
 
@@ -54,6 +56,31 @@ paginate: true
 ## Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+
+
+<section class="quotes">
+  <div class="bubble">
+    <img src="/assets/img/slide/aben01.jpg" />
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben02.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben03.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben04.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben05.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben06.jpg" /> 
+  </div>
+</section>
+
+
+
 
 <div class="slider">
   <div class="slider-inner">
@@ -120,6 +147,24 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 <!--page-->
 
 
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.5.0/slick.min.js"></script>
+
+<script>
+	$('.quotes').slick({
+  dots: true,
+  infinite: true,
+  autoplay: false,
+  autoplaySpeed: 6000,
+  speed: 800,
+  slidesToShow: 1,
+  adaptiveHeight: true
+});
+$( document ).ready(function() {
+$('.no-fouc').removeClass('no-fouc');
+});
+</script>
 
 
 

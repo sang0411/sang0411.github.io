@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 
 <style>
-.post-content{width:100%; text-align:left;}
+.post-content{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat center right;}
 .post-content h1{max-width:100%; padding: 0 3.25rem;}
 .post-content p{max-width:100%; padding: 0 3.25rem; word-wrap: break-word; word-break: keep-all;}
 .post-content ul {max-width:100%; padding: 0 3.25rem; margin:0;}

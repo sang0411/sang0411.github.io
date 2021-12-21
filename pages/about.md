@@ -12,12 +12,15 @@ permalink: "/about/"
 .post-content ul {max-width:100%; padding: 0 3.25rem; margin:0;}
 .post-content ul li{float:left; list-style:none; word-wrap: break-word; word-break: keep-all;}
 .post-content ul li:first-child{margin-right:30px;}
+.post-content .mt80{margin-top:80px;}
+
 
 @media (max-width: 620px) {
     .post-content{background:none;}
     .post-content p{max-width:100%; padding: 0 1.25rem; word-wrap: break-word; word-break: keep-all;}
     .post-content ul {max-width:100%; padding: 0 1.25rem; margin:0;}
     .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all;}
+    .post-content .mt80{margin-top:0;}
 }
 @media (min-width: 1220px) {
 
@@ -25,10 +28,7 @@ permalink: "/about/"
 </style>
 
 <!-- <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200"> -->
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p class="mt80"></p>
 
 # Sang-hyun Lee
 

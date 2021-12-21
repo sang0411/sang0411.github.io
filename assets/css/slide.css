@@ -1,20 +1,14 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+
 
 .outer-wrapper {
-  width: 80%;
+  width: 100%;
   margin: 50px auto;
 }
 
 .s-wrap {
   width: 100%;
   margin-bottom: 50px;
-  padding-bottom: 55%;
   position: relative;
-  border: 10px solid #fff;
   background-color: #efefe8;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   overflow: hidden;

@@ -31,9 +31,9 @@ paginate: true
 
 <!--page-->
 
-## Inline HTML elements
+## Improvements
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+기존에서 개선사항은 디자인 뿐만이 아닌 사용자가 시각적으로 정보를 얻는데 중점을 두었습니다.
 
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.

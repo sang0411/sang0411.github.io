@@ -16,6 +16,12 @@ author: thiagorossener
 paginate: true
 ---
 
+동아쏘시오그룹의 건설 계열사입니다.
+
+오래된 워드프레스 버전 기반으로 만들어진 홈페이지로서 반응형 구축이 안되어 있었습니다.
+철근종합건설에서 아벤종합건설로 사명 변경과 함께 홈페이지 리뉴얼 프로젝트를 진행했습니다.
+
+
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.

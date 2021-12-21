@@ -1,15 +1,17 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2021-03-02 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: 아벤종합건설
+subtitle: 아벤종합건설 홈페이지 리뉴얼 구축
+description: 동아쏘시오그룹의 건설 계열사입니다. 철근종합건설에서 아벤종합건설로 사명 변경과 함께 홈페이지 리뉴얼 프로젝트를 진행했습니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+category: web
 tags:
-  - books
-  - read
+  - web
+  - design
+  - pc
+  - mobile
 author: thiagorossener
 paginate: true
 ---

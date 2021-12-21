@@ -2,12 +2,11 @@
 
 .outer-wrapper {
   width: 100%;
-  margin: 50px auto;
 }
 
 .s-wrap {
   width: 100%;
-  margin-bottom: 50px;
+  padding-bottom: 55%;
   position: relative;
   background-color: #efefe8;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);

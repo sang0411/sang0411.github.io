@@ -54,43 +54,7 @@ paginate: true
 ## Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-<div class="slide-images">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0" viewBox="0 0 1366 768" xml:space="preserve">
 
-  <defs>
-    <filter id="blur0">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="0 0" />
-    </filter>
-    <filter id="blur1">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="5 0" />
-    </filter>
-    <filter id="blur2">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="12 0" />
-    </filter>
-    <filter id="blur3">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="20 0" />
-    </filter>
-    <filter id="blur4">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="35 1" />
-    </filter>
-    <filter id="blur5">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="50 1" />
-    </filter>
-  </defs>
-</svg>
-
-<div class="slider">
-  <div>
-    <img src="https://images.unsplash.com/photo-1446770145316-10a05382c470?dpr=1&auto=format&fit=crop&w=900&h=450&q=80&cs=tinysrgb&crop=" alt="">
-  </div>
-  <div>
-    <img src="https://images.unsplash.com/photo-1455717974081-0436a066bb96?dpr=1&auto=format&fit=crop&w=900&h=450&q=80&cs=tinysrgb&crop=" alt="">
-  </div>
-  <div>
-    <img src="https://images.unsplash.com/photo-1477420086945-b99c643e8a3d?dpr=1&auto=format&fit=crop&w=900&h=450&q=80&cs=tinysrgb&crop=" alt="">
-  </div>
-</div>
-</div>
 ![placeholder](https://placehold.it/800x400 "Large example image")
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 ![placeholder](https://placehold.it/200x200 "Small example image")
@@ -112,22 +76,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 <!--page-->
 
 
-<script type="text/javascript" src="/assets/js/slick.min.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
-<script>$('.slider').slick({
-  arrows: true,
-  dots: false,
-  infinite: true,
-  speed: 500,
-  slidesToShow: 1,
-  centerMode: true,
-  variableWidth: true,
-  draggable: false
-});$('.slider')
-  .on('beforeChange', function(event, slick, currentSlide, nextSlide){ $('.slick-list').addClass('do-transition')})
-  .on('afterChange', function(){$('.slick-list').removeClass('do-transition')});
-   
-</script>
 
 
 

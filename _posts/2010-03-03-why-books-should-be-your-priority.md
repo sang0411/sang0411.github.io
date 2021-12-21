@@ -17,6 +17,10 @@ author: thiagorossener
 paginate: true
 ---
 
+<link rel="stylesheet" href="/assets/css/slide.css">
+
+
+
 동아쏘시오그룹의 건설 계열사입니다.
 
 아벤종합건설로 사명을 바꾸며 기존 철근종합건설에서 홈페이지를 리뉴얼 했습니다. 기존 철근종합건설 홈페이지는 워드프레스 기반으로 구성되어 있었으며, 워드프레스의 개발서버와 운영서버의 관리가 부실하여
@@ -37,12 +41,12 @@ paginate: true
 아벤종합건설 홈페이지 구축에 대한 간략한 소개 입니다.
 
 - **프로젝트명 :** 아벤종합건설 홈페이지 리뉴얼 구축
-- 참여인원 : 3 [디자이너 1 / 퍼블리셔 1 / 개발자 1]
-- 기 간 : 2020.12 ~ 2021.03 
-- 해당 포지션 : Plan, Web Design
-- Device : PC, Mobile
-- 공헌도 : 70%
-- Program : Adobe Photoshop, Adobe Illustrator, Figma
+- **참여인원 :** 3 [디자이너 1 / 퍼블리셔 1 / 개발자 1]
+- **기 간 :** 2020.12 ~ 2021.03 
+- **해당 포지션 :** Plan, Web Design
+- **Device :** PC, Mobile
+- **공헌도 :** 70%
+- **Program :** Adobe Photoshop, Adobe Illustrator, Figma
 
 
 <!--page-->
@@ -50,7 +54,43 @@ paginate: true
 ## Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+<div class="slide-images">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0" viewBox="0 0 1366 768" xml:space="preserve">
 
+  <defs>
+    <filter id="blur0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0 0" />
+    </filter>
+    <filter id="blur1">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5 0" />
+    </filter>
+    <filter id="blur2">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12 0" />
+    </filter>
+    <filter id="blur3">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="20 0" />
+    </filter>
+    <filter id="blur4">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="35 1" />
+    </filter>
+    <filter id="blur5">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="50 1" />
+    </filter>
+  </defs>
+</svg>
+
+<div class="slider">
+  <div>
+    <img src="https://images.unsplash.com/photo-1446770145316-10a05382c470?dpr=1&auto=format&fit=crop&w=900&h=450&q=80&cs=tinysrgb&crop=" alt="">
+  </div>
+  <div>
+    <img src="https://images.unsplash.com/photo-1455717974081-0436a066bb96?dpr=1&auto=format&fit=crop&w=900&h=450&q=80&cs=tinysrgb&crop=" alt="">
+  </div>
+  <div>
+    <img src="https://images.unsplash.com/photo-1477420086945-b99c643e8a3d?dpr=1&auto=format&fit=crop&w=900&h=450&q=80&cs=tinysrgb&crop=" alt="">
+  </div>
+</div>
+</div>
 ![placeholder](https://placehold.it/800x400 "Large example image")
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 ![placeholder](https://placehold.it/200x200 "Small example image")
@@ -64,19 +104,30 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 
 ## Award
 
-아벤종합건설 홈페이지 구축에 대한 간략한 소개 입니다.
+2021년 Web Award Korea에 등록하여 수상 기록 입니다.
 
-- **프로젝트명 :** 아벤종합건설 홈페이지 리뉴얼 구축
-- 참여인원 : 3 [디자이너 1 / 퍼블리셔 1 / 개발자 1]
-- 기 간 : 2020.12 ~ 2021.03 
-- 해당 포지션 : Plan, Web Design
-- Device : PC, Mobile
-- 공헌도 : 70%
-- Program : Adobe Photoshop, Adobe Illustrator, Figma
-
+- **수상명 :** 2021 Web Award Korea 최우수상
+- **수상기관 :** 한국인터넷전문가협회
 
 <!--page-->
 
+
+<script type="text/javascript" src="/assets/js/slick.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+<script>$('.slider').slick({
+  arrows: true,
+  dots: false,
+  infinite: true,
+  speed: 500,
+  slidesToShow: 1,
+  centerMode: true,
+  variableWidth: true,
+  draggable: false
+});$('.slider')
+  .on('beforeChange', function(event, slick, currentSlide, nextSlide){ $('.slick-list').addClass('do-transition')})
+  .on('afterChange', function(){$('.slick-list').removeClass('do-transition')});
+   
+</script>
 
 
 

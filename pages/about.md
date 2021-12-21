@@ -23,7 +23,7 @@ permalink: "/about/"
     .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all;}
     .post-content .pt130{margin-top:0;}
 }
-@media (min-width: 1500px) {
+@media (max-width: 1500px) {
     .post-content{background:none;}
 }
 </style>

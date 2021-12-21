@@ -55,21 +55,47 @@ paginate: true
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-<div class="slider-container">
-  <div class="menu">
-    <label for="slide-dot-1"></label>
-    <label for="slide-dot-2"></label>
-    <label for="slide-dot-3"></label>
+<div class="slider">
+  <div class="slider-inner">
+    <input class="slider-open" type="radio" id="slider-1" name="slider" aria-hidden="true" hidden="" checked="checked">
+    <div class="slider-item">
+      <img src="http://fakeimg.pl/2000x800/0079D8/fff/?text=CSS">
+    </div>
+    <input class="slider-open" type="radio" id="slider-2" name="slider" aria-hidden="true" hidden="">
+    <div class="slider-item">
+      <img src="http://fakeimg.pl/2000x800/DA5930/fff/?text=Slider">
+    </div>
+    <input class="slider-open" type="radio" id="slider-3" name="slider" aria-hidden="true" hidden="">
+    <div class="slider-item">
+      <img src="http://fakeimg.pl/2000x800/F90/fff/?text=Without">
+    </div>
+    <input class="slider-open" type="radio" id="slider-4" name="slider" aria-hidden="true" hidden="">
+    <div class="slider-item">
+      <img src="http://fakeimg.pl/2000x800/F90/fff/?text=Javascript">
+    </div>
+    <label for="slider-3" class="slider-control prev control-1">‹</label>
+    <label for="slider-2" class="slider-control next control-1">›</label>
+    <label for="slider-1" class="slider-control prev control-2">‹</label>
+    <label for="slider-3" class="slider-control next control-2">›</label>
+    <label for="slider-2" class="slider-control prev control-3">‹</label>
+    <label for="slider-4" class="slider-control next control-3">›</label>
+    <label for="slider-3" class="slider-control prev control-4">‹</label>
+    <label for="slider-1" class="slider-control next control-4">›</label>
+    <ol class="slider-indicators">
+      <li>
+        <label for="slider-1" class="slider-bullet">•</label>
+      </li>
+      <li>
+        <label for="slider-2" class="slider-bullet">•</label>
+      </li>
+      <li>
+        <label for="slider-3" class="slider-bullet">•</label>
+      </li>
+      <li>
+        <label for="slider-4" class="slider-bullet">•</label>
+      </li>
+    </ol>
   </div>
-  
-  <input id="slide-dot-1" type="radio" name="slides" checked>
-    <div class="slide slide-1"></div>
-  
-  <input id="slide-dot-2" type="radio" name="slides">
-    <div class="slide slide-2"></div>
-  
-  <input id="slide-dot-3" type="radio" name="slides">
-    <div class="slide slide-3"></div>
 </div>
 
 

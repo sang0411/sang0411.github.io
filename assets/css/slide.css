@@ -1,70 +1,105 @@
-html, body {
+
+.slider {
+    position: relative;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.64);
+    margin-top: 26px;
+}
+
+.slider-inner {
+    position: relative;
+    overflow: hidden;
     width: 100%;
-    height: 100%;
+}
+
+.slider-open:checked + .slider-item {
+    position: static;
+    opacity: 100;
+}
+
+.slider-item {
+    position: absolute;
+    opacity: 0;
+    -webkit-transition: opacity 0.6s ease-out;
+    transition: opacity 0.6s ease-out;
+}
+
+.slider-item img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.slider-control {
+    background: rgba(0, 0, 0, 0.28);
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    display: none;
+    font-size: 40px;
+    height: 40px;
+    line-height: 35px;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    cursor: pointer;
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    text-align: center;
+    width: 40px;
+    z-index: 10;
+}
+
+.slider-control.prev {
+    left: 2%;
+}
+
+.slider-control.next {
+    right: 2%;
+}
+
+.slider-control:hover {
+    background: rgba(0, 0, 0, 0.8);
+    color: #aaaaaa;
+}
+
+#slider-1:checked ~ .control-1,
+#slider-2:checked ~ .control-2,
+#slider-3:checked ~ .control-3,
+#slider-4:checked ~ .control-4 {
+    display: block;
+}
+
+.slider-indicators {
+    list-style: none;
     margin: 0;
     padding: 0;
-    font-family: "Helvetica", sans-serif;
-  }
-  
-  img {
-    max-width: 100%;
-  }
-  
-  .slider-container{
-    height: 100%;
-    width: 100%;
-    position: relative;
-    overflow: hidden; 
+    position: absolute;
+    bottom: 2%;
+    left: 0;
+    right: 0;
     text-align: center;
-  }
-  
-  .menu {
-    position: absolute;
-    left: 0;
-    z-index: 900;
-    width: 100%;
-    bottom: 0;
-  }
-  
-  .menu label {
-    cursor: pointer;
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-    background: #fff;
-    border-radius: 50px;
-    margin: 0 .2em 1em;
-  }
-  .menu label:hover{background-color: red;}
-  
-  .slide {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 100%;
     z-index: 10;
-    padding: 8em 1em 0;
-    background-size: cover;
-    background-position: 50% 50%;
-    transition: left 0s .75s;
-  }
-  
-  [id^="slide"]:checked + .slide {
-    left: 0;
-    z-index: 100;
-    transition: left .65s ease-out;
-  }
-  
-  .slide-1 {
-    background-image: url("https://source.unsplash.com/t7YycgAoVSw/1600x900") no-repeat;
-    background-size:contain;
-  }
-  .slide-2 {
-    background-image: url("https://source.unsplash.com/11H1SSVcIxc/1600x900") no-repeat;
-    background-size:contain;
-  }
-  .slide-3 {
-    background-image: url("https://source.unsplash.com/OlZ1nWLEEgM/1600x900") no-repeat;
-    background-size:contain;
-  }
+}
+
+.slider-indicators li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.slider-bullet {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 35px;
+}
+
+.slider-bullet:hover {
+    color: #aaaaaa;
+}
+
+#slider-1:checked ~ .control-1 ~ .slider-indicators li:nth-child(1) .slider-bullet,
+#slider-2:checked ~ .control-2 ~ .slider-indicators li:nth-child(2) .slider-bullet,
+#slider-3:checked ~ .control-3 ~ .slider-indicators li:nth-child(3) .slider-bullet,
+#slider-4:checked ~ .control-4 ~ .slider-indicators li:nth-child(4) .slider-bullet {
+    color: #428bca;
+}

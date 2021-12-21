@@ -73,7 +73,7 @@ Hello! 반갑습니다.
 
 # Career
 
-**동아쏘시오그룹 DA인포메이션**
+### 동아쏘시오그룹 DA인포메이션
 
 <span style="color:#ff0a16">Rank :</span> 대리<br>
 <span style="color:#ff0a16">Position :</span> Web Design / App Design / Publising<br>
@@ -160,7 +160,7 @@ Hello! 반갑습니다.
 <p></p>
 <p></p>
 
-**DL company**
+### DL company
 
 <span style="color:#ff0a16">Rank :</span> 사원<br>
 <span style="color:#ff0a16">Position :</span> Web Design / Edit Design / Video Design <br>
@@ -219,7 +219,7 @@ Hello! 반갑습니다.
 <p></p>
 <p></p>
 
-**(주)면사랑**
+### (주)면사랑
 
 <span style="color:#ff0a16">Rank :</span> 수습사원<br>
 <span style="color:#ff0a16">Position :</span> Edit Design / Package Design <br>

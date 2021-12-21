@@ -34,10 +34,8 @@ html, body {
     background: #fff;
     border-radius: 50px;
     margin: 0 .2em 1em;
-    &:hover {
-      background: red;
-    }
   }
+  .menu label:hover{background-color: red;}
   
   .slide {
     width: 100%;

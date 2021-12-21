@@ -5,64 +5,26 @@
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Dec 2021 11:26:00 +0900</pubDate>
-    <lastBuildDate>Tue, 21 Dec 2021 11:26:00 +0900</lastBuildDate>
+    <pubDate>Tue, 21 Dec 2021 14:46:46 +0900</pubDate>
+    <lastBuildDate>Tue, 21 Dec 2021 14:46:46 +0900</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt; &lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur....</description>
-        <pubDate>Fri, 17 May 2019 08:48:05 +0900</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/2/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/2/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Fri, 17 May 2019 08:48:05 +0900</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Fri, 17 May 2019 08:48:05 +0900</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/view-all/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/view-all/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Why books should be your priority?</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list...</description>
-        <pubDate>Thu, 22 Nov 2018 21:26:40 +0900</pubDate>
+        <title>아벤종합건설</title>
+        <description>&lt;p&gt;동아쏘시오그룹의 건설 계열사입니다.&lt;/p&gt; &lt;p&gt;아벤종합건설로 사명을 바꾸며 기존 철근종합건설에서 홈페이지를 리뉴얼 했습니다. 기존 철근종합건설 홈페이지는 워드프레스 기반으로 구성되어 있었으며, 워드프레스의 개발서버와 운영서버의 관리가 부실하여 새롭게 Vue.js 기반으로 구축을 했습니다. 또한 기존 철근종합건설 홈페이지는 반응형 구조가 아닌 PC만 지원하는 상태였었습니다.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://aben.co.kr/&quot; target=&quot;_blank&quot;&gt;https://aben.co.kr/&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;아벤종합건설 홈페이지 리뉴얼을 통하여 사용자의 Mobile에서도 쉽고 빠르게 접근을 하기 위해 반응형으로 구축을 했습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;홈페이지 리뉴얼을 통해 아벤종합건설은 &lt;strong&gt;PC, Mobile을 지원&lt;/strong&gt;을하며 사용자의 문의사항을 빠르게 접수 받을 수 있게 되었습니다.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;...</description>
+        <pubDate>Tue, 02 Mar 2021 21:26:40 +0900</pubDate>
         <link>http://localhost:4000/why-books-should-be-your-priority/</link>
         <guid isPermaLink="true">http://localhost:4000/why-books-should-be-your-priority/</guid>
         
-        <category>books</category>
+        <category>web</category>
         
-        <category>read</category>
+        <category>design</category>
         
-        <category>life</category>
+        <category>pc</category>
+        
+        <category>mobile</category>
+        
+        <category>web</category>
       </item>
     
       <item>

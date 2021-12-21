@@ -2,7 +2,7 @@
 date: 2021-03-02 12:26:40
 layout: post
 title: 아벤종합건설
-subtitle: 아벤종합건설 홈페이지 리뉴얼 구축
+subtitle: 홈페이지 반응형 리뉴얼 구축
 description: 동아쏘시오그룹의 건설 계열사입니다. 철근종합건설에서 아벤종합건설로 사명 변경과 함께 홈페이지 리뉴얼 프로젝트를 진행했습니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
@@ -18,15 +18,16 @@ paginate: true
 
 동아쏘시오그룹의 건설 계열사입니다.
 
-오래된 워드프레스 버전 기반으로 만들어진 홈페이지로서 반응형 구축이 안되어 있었습니다.
-철근종합건설에서 아벤종합건설로 사명 변경과 함께 홈페이지 리뉴얼 프로젝트를 진행했습니다.
+아벤종합건설로 사명을 바꾸며 기존 철근종합건설에서 홈페이지를 리뉴얼 했습니다. 기존 철근종합건설 홈페이지는 워드프레스 기반으로 구성되어 있었으며, 워드프레스의 개발서버와 운영서버의 관리가 부실하여
+새롭게 Vue.js 기반으로 구축을 했습니다. 또한 기존 철근종합건설 홈페이지는 반응형 구조가 아닌 PC만 지원하는 상태였었습니다.
+
+<a href="https://aben.co.kr/" target="_blank">https://aben.co.kr/</a>
 
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+> 아벤종합건설 홈페이지 리뉴얼을 통하여 사용자의 Mobile에서도 쉽고 빠르게 접근을 하기 위해 반응형으로 구축을 했습니다.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+홈페이지 리뉴얼을 통해 아벤종합건설은 **PC, Mobile을 지원**을하며 사용자의 문의사항을 빠르게 접수 받을 수 있게 되었습니다.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 <!--page-->
 

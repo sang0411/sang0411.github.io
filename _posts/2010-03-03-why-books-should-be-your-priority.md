@@ -59,7 +59,7 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
   <div class="slider-inner">
     <input class="slider-open" type="radio" id="slider-1" name="slider" aria-hidden="true" hidden="" checked="checked">
     <div class="slider-item">
-      <img src="http://fakeimg.pl/2000x800/0079D8/fff/?text=CSS">
+      <img src="/assets/img/slide/aben01.jpg">
     </div>
     <input class="slider-open" type="radio" id="slider-2" name="slider" aria-hidden="true" hidden="">
     <div class="slider-item">

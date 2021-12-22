@@ -55,28 +55,26 @@ paginate: true
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-<div style="overflow:visible;">
-  <section class="quotes">
-    <div class="bubble">
-      <img src="/assets/img/slide/aben01.jpg" />
-    </div>
-    <div class="bubble">
-      <img src="/assets/img/slide/aben02.jpg" /> 
-    </div>
-    <div class="bubble">
-      <img src="/assets/img/slide/aben03.jpg" /> 
-    </div>
-    <div class="bubble">
-      <img src="/assets/img/slide/aben04.jpg" /> 
-    </div>
-    <div class="bubble">
-      <img src="/assets/img/slide/aben05.jpg" /> 
-    </div>
-    <div class="bubble">
-      <img src="/assets/img/slide/aben06.jpg" /> 
-    </div>
-  </section>
-</div>
+<section class="quotes">
+  <div class="bubble">
+    <img src="/assets/img/slide/aben01.jpg" />
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben02.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben03.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben04.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben05.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/aben06.jpg" /> 
+  </div>
+</section>
 
 
 

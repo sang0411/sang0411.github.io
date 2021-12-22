@@ -108,22 +108,22 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 <section class="regular slider">
   <div>
-    <img src="http://placehold.it/350x300?text=1">
+    <img src="/assets/img/slide/aben01.jpg">
   </div>
   <div>
-    <img src="http://placehold.it/350x300?text=2">
+    <img src="/assets/img/slide/aben02.jpg">
   </div>
   <div>
-    <img src="http://placehold.it/350x300?text=3">
+    <img src="/assets/img/slide/aben03.jpg">
   </div>
   <div>
-    <img src="http://placehold.it/350x300?text=4">
+    <img src="/assets/img/slide/aben04.jpg">
   </div>
   <div>
-    <img src="http://placehold.it/350x300?text=5">
+    <img src="/assets/img/slide/aben05.jpg">
   </div>
   <div>
-    <img src="http://placehold.it/350x300?text=6">
+    <img src="/assets/img/slide/aben06.jpg">
   </div>
 </section>
 

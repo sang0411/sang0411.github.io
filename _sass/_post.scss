@@ -717,3 +717,16 @@
 /*add css*/
 
 .post-content img{padding:0;}
+
+@media (min-width: 37.5rem){}
+.post.two-columns {
+    max-width: 80rem;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 2.5rem 0;
+  }
+  .post.two-columns .post-content {
+    flex-basis: 76%;
+    padding: 0 6rem;
+  }
+}

@@ -122,10 +122,10 @@
     position: absolute;
     bottom: -45px;
 
-    display: block;
+    display: block!important;
 
-    width: 100%;
-    padding: 0;
+    width: 100%!important;
+    padding: 0!important;
 
     list-style: none;
 

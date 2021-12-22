@@ -76,6 +76,7 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
       <img src="/assets/img/slide/aben06.jpg" /> 
     </div>
   </section>
+  <button type="button" data-role="none" class="slick-next" aria-label="next" style="display: block;">Next</button>
 </div>
 
 

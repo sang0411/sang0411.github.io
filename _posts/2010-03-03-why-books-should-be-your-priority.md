@@ -55,7 +55,7 @@ paginate: true
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-<div style="position:relative;">
+<div style="overflow:visible;">
   <section class="quotes">
     <div class="bubble">
       <img src="/assets/img/slide/aben01.jpg" />

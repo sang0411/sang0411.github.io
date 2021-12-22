@@ -56,26 +56,26 @@ paginate: true
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
 <div style="overflow:visible;">
-<section class="quotes">
-  <div class="bubble">
-    <img src="/assets/img/slide/aben01.jpg" />
-  </div>
-  <div class="bubble">
-    <img src="/assets/img/slide/aben02.jpg" /> 
-  </div>
-  <div class="bubble">
-    <img src="/assets/img/slide/aben03.jpg" /> 
-  </div>
-  <div class="bubble">
-    <img src="/assets/img/slide/aben04.jpg" /> 
-  </div>
-  <div class="bubble">
-    <img src="/assets/img/slide/aben05.jpg" /> 
-  </div>
-  <div class="bubble">
-    <img src="/assets/img/slide/aben06.jpg" /> 
-  </div>
-</section>
+  <section class="quotes">
+    <div class="bubble">
+      <img src="/assets/img/slide/aben01.jpg" />
+    </div>
+    <div class="bubble">
+      <img src="/assets/img/slide/aben02.jpg" /> 
+    </div>
+    <div class="bubble">
+      <img src="/assets/img/slide/aben03.jpg" /> 
+    </div>
+    <div class="bubble">
+      <img src="/assets/img/slide/aben04.jpg" /> 
+    </div>
+    <div class="bubble">
+      <img src="/assets/img/slide/aben05.jpg" /> 
+    </div>
+    <div class="bubble">
+      <img src="/assets/img/slide/aben06.jpg" /> 
+    </div>
+  </section>
 </div>
 
 
@@ -104,6 +104,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.5.0/slick.min.js"></script>
+<script type="text/javascript" src="/assets/js/slick.js"></script>
 
 <script>
 	$('.quotes').slick({

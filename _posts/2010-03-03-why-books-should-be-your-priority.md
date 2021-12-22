@@ -19,7 +19,32 @@ paginate: true
 
 <link rel="stylesheet" href="/assets/css/slick.css">
 <link rel="stylesheet" href="/assets/css/slick-theme.css">
-
+<style type="text/css">
+.slider {
+    width: 50%;
+    margin: 100px auto;
+}
+.slick-slide {
+  margin: 0px 20px;
+}
+.slick-slide img {
+  width: 100%;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+.slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: .2;
+}
+.slick-active {
+  opacity: .5;
+}
+.slick-current {
+  opacity: 1;
+}
+</style>
 
 
 동아쏘시오그룹의 건설 계열사입니다.
@@ -81,6 +106,29 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 
 
+<section class="regular slider">
+  <div>
+    <img src="http://placehold.it/350x300?text=1">
+  </div>
+  <div>
+    <img src="http://placehold.it/350x300?text=2">
+  </div>
+  <div>
+    <img src="http://placehold.it/350x300?text=3">
+  </div>
+  <div>
+    <img src="http://placehold.it/350x300?text=4">
+  </div>
+  <div>
+    <img src="http://placehold.it/350x300?text=5">
+  </div>
+  <div>
+    <img src="http://placehold.it/350x300?text=6">
+  </div>
+</section>
+
+
+
 
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
@@ -101,6 +149,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.5.0/slick.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="/assets/js/slick.js"></script>
 
 <script>
 	$('.quotes').slick({
@@ -117,7 +166,14 @@ $('.no-fouc').removeClass('no-fouc');
 });
 </script>
 
-
+<script>
+$(".regular").slick({
+      dots: true,
+      infinite: true,
+      slidesToShow: 3,
+      slidesToScroll: 3
+    });
+</script>
 
 
 

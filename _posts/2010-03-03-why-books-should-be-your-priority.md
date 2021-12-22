@@ -19,32 +19,6 @@ paginate: true
 
 <link rel="stylesheet" href="/assets/css/slick.css">
 <link rel="stylesheet" href="/assets/css/slick-theme.css">
-<style type="text/css">
-.slider {
-    width: 50%;
-    margin: 100px auto;
-}
-.slick-slide {
-  margin: 0px 20px;
-}
-.slick-slide img {
-  width: 100%;
-}
-.slick-prev:before,
-.slick-next:before {
-  color: black;
-}
-.slick-slide {
-  transition: all ease-in-out .3s;
-  opacity: .2;
-}
-.slick-active {
-  opacity: .5;
-}
-.slick-current {
-  opacity: 1;
-}
-</style>
 
 
 동아쏘시오그룹의 건설 계열사입니다.
@@ -167,14 +141,6 @@ $('.no-fouc').removeClass('no-fouc');
 });
 </script>
 
-<script>
-$(".regular").slick({
-      dots: true,
-      infinite: true,
-      slidesToShow: 3,
-      slidesToScroll: 3
-    });
-</script>
 
 
 

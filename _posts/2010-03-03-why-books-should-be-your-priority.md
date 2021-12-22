@@ -81,26 +81,6 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 
 
-<section class="regular slider">
-  <div>
-    <img src="/assets/img/slide/aben01.jpg">
-  </div>
-  <div>
-    <img src="/assets/img/slide/aben02.jpg">
-  </div>
-  <div>
-    <img src="/assets/img/slide/aben03.jpg">
-  </div>
-  <div>
-    <img src="/assets/img/slide/aben04.jpg">
-  </div>
-  <div>
-    <img src="/assets/img/slide/aben05.jpg">
-  </div>
-  <div>
-    <img src="/assets/img/slide/aben06.jpg">
-  </div>
-</section>
 
 
 

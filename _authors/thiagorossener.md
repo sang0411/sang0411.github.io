@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profile.png
 name: thiagorossener
 display_name: Sang-hyun Lee
 position: Chief Editor
-bio: Just a developer.
+bio: Just a Designer.
 github_username: thiagorossener
 facebook_username: thiagorossener
 twitter_username: thiagorossener

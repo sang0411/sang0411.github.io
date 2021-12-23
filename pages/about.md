@@ -6,17 +6,8 @@ permalink: "/about/"
 ---
 
 <style>
-.profile-bg{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;
-position: relative;
-  left: 200px;
-  opacity: 0;
-  transition: left 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s linear;}
+.profile-bg{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;}
 
-.fade-in {
-  transition: left 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s linear;
-  left: 0px;
-  opacity: 1;
-}
 .post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
 .post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
 .post-content p{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; word-wrap: break-word; word-break: keep-all;}
@@ -376,20 +367,17 @@ Hello! 반갑습니다.
 
 
 <script>
-    const targets = document.querySelectorAll(".profile-bg");
-  const options = { root: null, threshold: 0.1, rootMargin: "-0px" };
-  const observer = new IntersectionObserver(function (entries, observer) {
-    entries.forEach((entry) => {
-      const container = entry.target;
-      if (entry.isIntersecting) {
-        container.classList.add("fade-in");
-      } else {
-        container.classList.remove("fade-in");
-      }
-    });
-  }, options);
+$(document).ready(function(){
+    $(window).scroll(function(){
+        $('.profile-bg').each(function(i){
+            var bottom_of_object=$(this).offset().top+$(this).outerHeight();
+            var bottom_of_window=$(window).scrollTop()+$(window).height();
 
-  targets.forEach((target) => {
-    observer.observe(target);
-  });
+            if(bottom_of_window>bottom_of_object/2){
+                $(this).animate({'opacity':'1'},500);
+            }
+        });
+    });
+});
+
 </script>

@@ -6,27 +6,28 @@ permalink: "/about/"
 ---
 
 <style>
-.post-content{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;}
-.post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
-.post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
-.post-content p{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; word-wrap: break-word; word-break: keep-all;}
-.post-content ul {max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; margin:0;}
-.post-content ul li{float:left; list-style:none; word-wrap: break-word; word-break: keep-all;}
-.post-content ul li:first-child{margin-right:30px;}
-.post-content .pt130{padding-top:130px;}
+.post {background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;}
+.post .post-content{width:100%; text-align:left; }
+.post .post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
+.post .post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
+.post .post-content p{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; word-wrap: break-word; word-break: keep-all;}
+.post .post-content ul {max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; margin:0;}
+.post .post-content ul li{float:left; list-style:none; word-wrap: break-word; word-break: keep-all;}
+.post .post-content ul li:first-child{margin-right:30px;}
+.post .post-content .pt130{padding-top:130px;}
 
 
 @media (max-width: 620px) {
-    .post-content{background:none;}
-    .post-content h1{max-width:100%; padding: 0 1.25rem;}
-    .post-content h3{max-width:100%; padding: 0 1.25rem;}
-    .post-content p{max-width:100%; padding: 0 1.25rem; word-wrap: break-word; word-break: keep-all;}
-    .post-content ul {max-width:100%; padding: 0 1.25rem; margin:0;}
-    .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all;}
-    .post-content .pt130{margin-top:0;}
+    .post{background:none;}
+    .post .post-content h1{max-width:100%; padding: 0 1.25rem;}
+    .post .post-content h3{max-width:100%; padding: 0 1.25rem;}
+    .post .post-content p{max-width:100%; padding: 0 1.25rem; word-wrap: break-word; word-break: keep-all;}
+    .post .post-content ul {max-width:100%; padding: 0 1.25rem; margin:0;}
+    .post .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all;}
+    .post .post-content .pt130{margin-top:0;}
 }
 @media (max-width: 1500px) {
-    .post-content{background:none;}
+    .post{background:none;}
 }
 </style>
 

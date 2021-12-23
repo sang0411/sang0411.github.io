@@ -25,6 +25,7 @@ permalink: "/about/"
     .post-content p{max-width:100%; padding: 0 1.25rem; margin-left:0; word-wrap: break-word; word-break: keep-all;}
     .post-content ul {max-width:100%; padding: 0 1.25rem; margin:0; padding-bottom:0.625rem;}
     .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all; padding:0;}
+    .post-content ul li:first-child{margin-right:0;}
     .post-content .pt130{padding-top:0;}
 }
 @media (max-width: 1500px) {

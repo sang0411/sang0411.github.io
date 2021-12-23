@@ -6,7 +6,8 @@ permalink: "/about/"
 ---
 
 <style>
-.profile-bg{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;}
+.profile-bg{width:100%; text-align:left; background:linear-gradient(rgba(255, 255, 255, 0), 
+		rgba(255, 255, 255, 0)), url('/assets/img/profile.jpg'); background-repeat:no-repeat; background-position:bottom right; background-size:contain; background-attachment:fixed;}
 
 .post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
 .post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
@@ -367,17 +368,6 @@ Hello! 반갑습니다.
 
 
 <script>
-$(document).ready(function(){
-    $(window).scroll(function(){
-        $('.profile-bg').each(function(i){
-            var bottom_of_object=$(this).offset().top+$(this).outerHeight();
-            var bottom_of_window=$(window).scrollTop()+$(window).height();
 
-            if(bottom_of_window>bottom_of_object/2){
-                $(this).animate({'opacity':'1'},500);
-            }
-        });
-    });
-});
 
 </script>

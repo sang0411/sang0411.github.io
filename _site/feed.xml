@@ -5,8 +5,8 @@
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Dec 2021 14:52:36 +0900</pubDate>
-    <lastBuildDate>Tue, 21 Dec 2021 14:52:36 +0900</lastBuildDate>
+    <pubDate>Thu, 23 Dec 2021 15:32:23 +0900</pubDate>
+    <lastBuildDate>Thu, 23 Dec 2021 15:32:23 +0900</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -53,10 +53,12 @@
     
       <item>
         <title>아벤종합건설</title>
-        <description>&lt;p&gt;동아쏘시오그룹의 건설 계열사입니다.&lt;/p&gt; &lt;p&gt;아벤종합건설로 사명을 바꾸며 기존 철근종합건설에서 홈페이지를 리뉴얼 했습니다. 기존 철근종합건설 홈페이지는 워드프레스 기반으로 구성되어 있었으며, 워드프레스의 개발서버와 운영서버의 관리가 부실하여 새롭게 Vue.js 기반으로 구축을 했습니다. 또한 기존 철근종합건설 홈페이지는 반응형 구조가 아닌 PC만 지원하는 상태였었습니다.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://aben.co.kr/&quot; target=&quot;_blank&quot;&gt;https://aben.co.kr/&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;아벤종합건설 홈페이지 리뉴얼을 통하여 사용자의 Mobile에서도 쉽고 빠르게 접근을 하기 위해 반응형으로 구축을 했습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;홈페이지 리뉴얼을 통해 아벤종합건설은 &lt;strong&gt;PC, Mobile을 지원&lt;/strong&gt;을하며 사용자의 문의사항을 빠르게 접수 받을 수 있게 되었습니다.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;improvements&quot;&gt;Improvements&lt;/h2&gt; &lt;p&gt;기존에서 개선사항은 디자인 뿐만이 아닌 사용자가 시각적으로 정보를 얻는데 중점을 두었습니다.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;language-plaintext...</description>
+        <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick.css&quot; /&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick-theme.css&quot; /&gt; &lt;p&gt;동아쏘시오그룹의 건설 계열사입니다.&lt;/p&gt; &lt;p&gt;아벤종합건설로 사명을 바꾸며 기존 철근종합건설에서 홈페이지를 리뉴얼 했습니다. 기존 철근종합건설 홈페이지는 워드프레스 기반으로 구성되어 있었으며, 워드프레스의 개발서버와 운영서버의 관리가 부실하여 새롭게 Vue.js 기반으로 구축을 했습니다. 또한 기존 철근종합건설 홈페이지는 반응형 구조가 아닌 PC만 지원하는 상태였었습니다.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://aben.co.kr/&quot; target=&quot;_blank&quot;&gt;https://aben.co.kr/&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;아벤종합건설 홈페이지 리뉴얼을 통하여 사용자의 Mobile에서도 쉽고 빠르게 접근을 하기 위해 반응형으로 구축을 했습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;홈페이지 리뉴얼을 통해 아벤종합건설은 &lt;strong&gt;PC, Mobile을 지원&lt;/strong&gt;을하며 사용자의 문의사항을 빠르게 접수 받을 수 있게 되었습니다.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;information&quot;&gt;Information&lt;/h2&gt; &lt;p&gt;아벤종합건설 홈페이지 구축에 대한 간략한 소개 입니다.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;프로젝트명 :&lt;/strong&gt; 아벤종합건설 홈페이지 리뉴얼 구축&lt;/li&gt; &lt;li&gt;&lt;strong&gt;참여인원 :&lt;/strong&gt; 3...</description>
         <pubDate>Tue, 02 Mar 2021 21:26:40 +0900</pubDate>
-        <link>http://localhost:4000/why-books-should-be-your-priority/</link>
-        <guid isPermaLink="true">http://localhost:4000/why-books-should-be-your-priority/</guid>
+        <link>http://localhost:4000/donga-aben/</link>
+        <guid isPermaLink="true">http://localhost:4000/donga-aben/</guid>
+        
+        <category>Dong-A Socio Group</category>
         
         <category>web</category>
         

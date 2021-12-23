@@ -6,17 +6,19 @@ permalink: "/about/"
 ---
 
 <style>
+.content{height:100%;}
 .post-content{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;}
-.post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
-.post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
-.post-content p{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; word-wrap: break-word; word-break: keep-all;}
-.post-content ul {max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; margin:0;}
+.post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ margin-left:10%;}
+.post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ margin-left:10%;}
+.post-content p{max-width:100%; /*padding: 0 3.25rem;*/ margin-left:10%; word-wrap: break-word; word-break: keep-all;}
+.post-content ul {max-width:100%; /*padding: 0 3.25rem;*/ margin-left:10%; margin-right:0; margin-top:0; margin-bottom:0;}
 .post-content ul li{float:left; list-style:none; word-wrap: break-word; word-break: keep-all;}
 .post-content ul li:first-child{margin-right:30px;}
 .post-content .pt130{padding-top:130px;}
 
 
 @media (max-width: 620px) {
+    .content{height:unset;}
     .post-content{background:none;}
     .post-content h1{max-width:100%; padding: 0 1.25rem;}
     .post-content h3{max-width:100%; padding: 0 1.25rem;}
@@ -26,11 +28,13 @@ permalink: "/about/"
     .post-content .pt130{margin-top:0;}
 }
 @media (max-width: 1500px) {
+    .content{height:unset;}
     .post-content{background:none;}
 }
 </style>
 
 <!-- <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200"> -->
+<div></div>
 <p class="pt130"></p>
 
 # Sang-hyun Lee

@@ -366,7 +366,7 @@ Hello! 반갑습니다.
 <p></p>
 <p></p>
 
-
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script>
 var nystories = document.querySelector("#outdoor-activities").offsetTop;
 window.onscroll = function() {

@@ -6,7 +6,16 @@ permalink: "/about/"
 ---
 
 <style>
-.post-content{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;}
+.post-content{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;
+position: relative;
+  left: 200px;
+  opacity: 0;
+  transition: left 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s linear;}
+  .fade-in {
+  transition: left 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s linear;
+  left: 0px;
+  opacity: 1;
+}
 .post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
 .post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
 .post-content p{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; word-wrap: break-word; word-break: keep-all;}
@@ -363,3 +372,23 @@ Hello! 반갑습니다.
 <p></p>
 <p></p>
 <p></p>
+
+
+<script>
+    const targets = document.querySelectorAll(".post-content");
+  const options = { root: null, threshold: 0.1, rootMargin: "-0px" };
+  const observer = new IntersectionObserver(function (entries, observer) {
+    entries.forEach((entry) => {
+      const container = entry.target;
+      if (entry.isIntersecting) {
+        container.classList.add("fade-in");
+      } else {
+        container.classList.remove("fade-in");
+      }
+    });
+  }, options);
+
+  targets.forEach((target) => {
+    observer.observe(target);
+  });
+</script>

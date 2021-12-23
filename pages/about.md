@@ -25,7 +25,7 @@ permalink: "/about/"
     .post-content p{max-width:100%; padding: 0 1.25rem; margin-left:0; word-wrap: break-word; word-break: keep-all;}
     .post-content ul {max-width:100%; padding: 0 1.25rem; margin:0;}
     .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all;}
-    .post-content .pt130{margin-top:0;}
+    .post-content .pt130{padding-top:0;}
 }
 @media (max-width: 1500px) {
     .content{height:unset;}
@@ -34,7 +34,6 @@ permalink: "/about/"
 </style>
 
 <!-- <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200"> -->
-<div></div>
 <p class="pt130"></p>
 
 # Sang-hyun Lee

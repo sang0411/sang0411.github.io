@@ -6,12 +6,13 @@ permalink: "/about/"
 ---
 
 <style>
-.post-content{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;
+.profile-bg{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;
 position: relative;
   left: 200px;
   opacity: 0;
   transition: left 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s linear;}
-  .fade-in {
+
+.fade-in {
   transition: left 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s linear;
   left: 0px;
   opacity: 1;
@@ -26,7 +27,7 @@ position: relative;
 
 
 @media (max-width: 620px) {
-    .post-content{background:none;}
+    .profile-bg{background:none;}
     .post-content h1{max-width:100%; padding: 0 1.25rem;}
     .post-content h3{max-width:100%; padding: 0 1.25rem;}
     .post-content p{max-width:100%; padding: 0 1.25rem; word-wrap: break-word; word-break: keep-all;}
@@ -35,7 +36,7 @@ position: relative;
     .post-content .pt130{margin-top:0;}
 }
 @media (max-width: 1500px) {
-    .post-content{background:none;}
+    .profile-bg{background:none;}
 }
 </style>
 
@@ -375,7 +376,7 @@ Hello! 반갑습니다.
 
 
 <script>
-    const targets = document.querySelectorAll(".post-content");
+    const targets = document.querySelectorAll(".profile-bg");
   const options = { root: null, threshold: 0.1, rootMargin: "-0px" };
   const observer = new IntersectionObserver(function (entries, observer) {
     entries.forEach((entry) => {

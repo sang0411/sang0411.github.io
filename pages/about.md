@@ -15,6 +15,7 @@ permalink: "/about/"
 .post-content ul li{float:left; list-style:none; word-wrap: break-word; word-break: keep-all;}
 .post-content ul li:first-child{margin-right:30px;}
 .post-content .pt130{padding-top:130px;}
+footer{display:none;}
 
 
 @media (max-width: 620px) {

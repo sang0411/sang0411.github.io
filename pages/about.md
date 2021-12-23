@@ -20,9 +20,9 @@ permalink: "/about/"
 @media (max-width: 620px) {
     .content{height:unset;}
     .post-content{background:none;}
-    .post-content h1{max-width:100%; padding: 0 1.25rem;}
-    .post-content h3{max-width:100%; padding: 0 1.25rem;}
-    .post-content p{max-width:100%; padding: 0 1.25rem; word-wrap: break-word; word-break: keep-all;}
+    .post-content h1{max-width:100%; padding: 0 1.25rem; margin-left:0;}
+    .post-content h3{max-width:100%; padding: 0 1.25rem; margin-left:0;}
+    .post-content p{max-width:100%; padding: 0 1.25rem; margin-left:0; word-wrap: break-word; word-break: keep-all;}
     .post-content ul {max-width:100%; padding: 0 1.25rem; margin:0;}
     .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all;}
     .post-content .pt130{margin-top:0;}

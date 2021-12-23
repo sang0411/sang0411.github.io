@@ -6,9 +6,7 @@ permalink: "/about/"
 ---
 
 <style>
-.profile-bg{width:100%; text-align:left; background:linear-gradient(rgba(255, 255, 255, 0), 
-		rgba(255, 255, 255, 0)), url('/assets/img/profile.jpg'); background-repeat:no-repeat; background-position:bottom right; background-size:contain; background-attachment:fixed;}
-
+.post-content{width:100%; text-align:left; background:url('/assets/img/profile.jpg') no-repeat bottom right; background-size:contain; background-attachment:fixed;}
 .post-content h1{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
 .post-content h3{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%;}
 .post-content p{max-width:100%; /*padding: 0 3.25rem;*/ padding-left:10%; word-wrap: break-word; word-break: keep-all;}
@@ -19,7 +17,7 @@ permalink: "/about/"
 
 
 @media (max-width: 620px) {
-    .profile-bg{background:none;}
+    .post-content{background:none;}
     .post-content h1{max-width:100%; padding: 0 1.25rem;}
     .post-content h3{max-width:100%; padding: 0 1.25rem;}
     .post-content p{max-width:100%; padding: 0 1.25rem; word-wrap: break-word; word-break: keep-all;}
@@ -28,7 +26,7 @@ permalink: "/about/"
     .post-content .pt130{margin-top:0;}
 }
 @media (max-width: 1500px) {
-    .profile-bg{background:none;}
+    .post-content{background:none;}
 }
 </style>
 
@@ -365,17 +363,3 @@ Hello! 반갑습니다.
 <p></p>
 <p></p>
 <p></p>
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script>
-var nystories = document.querySelector("#outdoor-activities").offsetTop;
-window.onscroll = function() {
-  if (window.pageYOffset > 0) {
-	var opac = window.pageYOffset / nystories;
-	document.body.style.background = "linear-gradient(rgba(255, 255, 255, " + opac + "), 
-		rgba(255, 255, 255, " + opac + ")), 
-		url(times-square-perspective.jpg) no-repeat";
-	}
-}
-
-</script>

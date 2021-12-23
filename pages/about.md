@@ -28,10 +28,12 @@ footer{display:none;}
     .post-content ul li{float:none; list-style:none; word-wrap: break-word; word-break: keep-all; padding:0;}
     .post-content ul li:first-child{margin-right:0;}
     .post-content .pt130{padding-top:0;}
+    footer{display:block;}
 }
 @media (max-width: 1500px) {
     .content{height:unset;}
     .post-content{background:none;}
+    footer{display:block;}
 }
 </style>
 

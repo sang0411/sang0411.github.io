@@ -6,7 +6,7 @@ subtitle: promotion Video
 description: 담소유병원 하지정맥류 진료과목 홍보책자입니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: Book
+category: video
 tags:
   - Damsoyu
   - hospital
@@ -19,7 +19,9 @@ paginate: true
 
 <link rel="stylesheet" href="/assets/css/slick.css">
 <link rel="stylesheet" href="/assets/css/slick-theme.css">
-
+<style>
+  .post-video{border-radius:10px;  box-shadow: 0px 18px 15px 0px rgb(0 0 0 / 25%); margin-bottom:30px;}
+</style>
 
 
 담소유병원의 진료과목들 중 4가지의 특성화클리닉 홍보 영상을 만들었습니다.
@@ -47,25 +49,25 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
 
 <!--page-->
 
-## Images
+## Video
 
 담소유병원 특성화클리닉 동영상입니다.<br>
 담석증 / 맹장염 / 하지정맥류 / 유방갑상선
 
-<div class="video">
-  <iframe width="100%" height="580" src="https://www.youtube.com/embed/t69DFWSVKrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="post-video">
+  <iframe src="https://www.youtube.com/embed/t69DFWSVKrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="video">
-  <iframe width="100%" height="580" src="https://www.youtube.com/embed/lAR1JSsr2ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="post-video">
+  <iframe src="https://www.youtube.com/embed/lAR1JSsr2ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="video">
-  <iframe width="100%" height="580" src="https://www.youtube.com/embed/HiUv_es2rM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="post-video">
+  <iframe src="https://www.youtube.com/embed/HiUv_es2rM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="video">
-  <iframe width="100%" height="580" src="https://www.youtube.com/embed/FvYMIscgVxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="post-video">
+  <iframe src="https://www.youtube.com/embed/FvYMIscgVxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

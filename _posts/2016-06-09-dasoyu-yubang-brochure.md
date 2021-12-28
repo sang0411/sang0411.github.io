@@ -6,7 +6,7 @@ subtitle: Brochure Print
 description: 담소유병원 유방갑상선 진료과목 브로셔입니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: edit
+category: Brochure
 tags:
   - Damsoyu
   - hospital
@@ -28,7 +28,7 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
 4단 브로셔로 담소유병원 구범환 이사장의 취임과 동시에 유방갑상선 진료과목이 추가가 되어 홍보용 브로셔입니다.
 
 
-> 고객사인 담소유병원에서 진료과목 추가가 되자 저희는 적극적으로 추가 진료과목의 홍보성을 중요성을 알리기 위해 발빠르게 대처했습니다.
+> 고객사인 담소유병원에서 진료과목 추가가 되자 저희는 적극적으로 추가 진료과목의 **홍보성과 중요성**을 알리기 위해 발빠르게 대처했습니다.
 
 4단 브로셔로 선정한 이유는 많은 내용을 넣고자하는 담소유병원 측의 요구에 맞게 4단을 구성을 했습니다. 3단이 조금더 얇고 가볍지만 방대한 양을 넣고자 1단을 추가하여 4단 구성을 적정하다고 생각했습니다.
 병원에서는 대체적으로 전후 사진이 중요하기에 이미지 위주를 많이 배치했습니다.

@@ -2,7 +2,7 @@
 date: 2018-11-10 12:26:40
 layout: post
 title: DA인포메이션 Catalog
-subtitle: 카타로그 인쇄
+subtitle: Catalog Print
 description: DA인포메이션의 영업사원들이 회사의 정보를 쉽게 설명할 수 있도록 제작한 카타로그입니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg

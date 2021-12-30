@@ -4,8 +4,8 @@ layout: post
 title: 마이보라&멜리안
 subtitle: 홈페이지 반응형 리뉴얼 구축
 description: 동아제약 피임약 브랜드 마이보라와 멜리안 리뉴얼 홈페이지 입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+image: /assets/img/top/top-myvlar-melian.jpg
+optimized_image: /assets/img/sumnail/sumnail-myvlar-melian.jpg
 category: web
 tags:
   - Dong-A Pharm

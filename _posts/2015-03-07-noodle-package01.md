@@ -6,7 +6,7 @@ subtitle: Package 리뉴얼
 description: 면사랑 NB제품 용기면 냉동 해물맛라볶이 리뉴얼 패키지입니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: Graphic
+category: Package
 tags:
   - Noodlelovers
   - package

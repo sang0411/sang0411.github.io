@@ -20,7 +20,8 @@ paginate: true
 <link rel="stylesheet" href="/assets/css/slick.css">
 <link rel="stylesheet" href="/assets/css/slick-theme.css">
 <style>
-  .post-video{border-radius:10px;  box-shadow: 0px 18px 15px 0px rgb(0 0 0 / 25%); margin-bottom:30px;}
+  .post-video{border-radius:10px;  box-shadow: 0px 18px 15px 0px rgb(0 0 0 / 25%); margin-bottom:80px;}
+  .post-content iframe{border-radius:10px; padding:0;}
 </style>
 
 
@@ -55,19 +56,19 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
 담석증 / 맹장염 / 하지정맥류 / 유방갑상선
 
 <div class="post-video">
-  <iframe width="100%" height="380" src="https://www.youtube.com/embed/t69DFWSVKrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="409" src="https://www.youtube.com/embed/t69DFWSVKrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="post-video">
-  <iframe src="https://www.youtube.com/embed/lAR1JSsr2ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="409" src="https://www.youtube.com/embed/lAR1JSsr2ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="post-video">
-  <iframe src="https://www.youtube.com/embed/HiUv_es2rM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="409" src="https://www.youtube.com/embed/HiUv_es2rM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="post-video">
-  <iframe src="https://www.youtube.com/embed/FvYMIscgVxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="409" src="https://www.youtube.com/embed/FvYMIscgVxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

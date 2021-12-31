@@ -4,8 +4,8 @@ layout: post
 title: 동아쏘시오그룹 우리사주
 subtitle: 홈페이지 신규 구축
 description: 동아쏘시오그룹의 우리사주 홈페이지 구축 프로젝트 입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
+image: /assets/img/top/top-saju.jpg
+optimized_image: /assets/img/sumnail/sumnail-saju.jpg
 category: web
 tags:
   - Dong-A Socio Group

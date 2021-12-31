@@ -1,7 +1,7 @@
 ---
 date: 2015-03-09 12:26:40
 layout: post
-title: 면사랑 Catalog
+title: 면사랑 Truck Graphic
 subtitle: Graphic identity
 description: 운송되는 면사랑의 냉동탑차의 그래픽을 리뉴얼 했습니다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg

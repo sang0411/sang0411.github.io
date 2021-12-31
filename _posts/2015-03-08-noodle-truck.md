@@ -4,8 +4,8 @@ layout: post
 title: 면사랑 Truck Graphic
 subtitle: Graphic identity
 description: 운송되는 면사랑의 냉동탑차의 그래픽을 리뉴얼 했습니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: /assets/img/top/top-noodletruck.jpg
+optimized_image: /assets/img/sumnail/sumnail-noodletruck.jpg
 category: Graphic
 tags:
   - Noodlelovers

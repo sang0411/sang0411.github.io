@@ -4,8 +4,8 @@ layout: post
 title: Idea Factory
 subtitle: 홈페이지 신규 구축
 description: 동아제약 임직원의 아이디어를 볼 수 있는 게시판형 홈페이지 구축 프로젝트 입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
+image: /assets/img/top/top-ideafactory.jpg
+optimized_image: /assets/img/sumnail/sumnail-ideafactory.jpg
 category: web
 tags:
   - Dong-A Pharm

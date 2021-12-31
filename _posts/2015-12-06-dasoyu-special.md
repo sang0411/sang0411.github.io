@@ -4,8 +4,8 @@ layout: post
 title: 담소유병원 특성화클리닉
 subtitle: 홈페이지 신규 구축
 description: 담소유병원 특성화클리닉 홈페이지 구축입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
+image: /assets/img/top/top-damsoyuhomepage.jpg
+optimized_image: /assets/img/sumnail/sumnail-damsoyuhomepage.jpg
 category: web
 tags:
   - Damsoyu

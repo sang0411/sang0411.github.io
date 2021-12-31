@@ -4,8 +4,8 @@ layout: post
 title: 담소유병원 소아탈장
 subtitle: Book Print
 description: 담소유병원 소아탈장 진료과목 홍보책자입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: /assets/img/top/top-babybook.jpg
+optimized_image: /assets/img/sumnail/sumnail-babybook.jpg
 category: Book
 tags:
   - Damsoyu

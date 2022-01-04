@@ -2,11 +2,11 @@
 date: 2016-06-10 12:26:40
 layout: post
 title: 담소유병원 유방갑상선
-subtitle: Brochure Print
-description: 담소유병원 유방갑상선 진료과목 브로셔입니다.
+subtitle: Book & Brochure Print
+description: 담소유병원 유방갑상선 진료과목 홍보책자 & 브로셔입니다.
 image: /assets/img/top/top-yubangbrochure.jpg
 optimized_image: /assets/img/sumnail/sumnail-yubangbrochure.jpg
-category: Brochure
+category: Book & Brochure
 tags:
   - Damsoyu
   - hospital
@@ -23,9 +23,9 @@ paginate: true
 
 
 
-담소유병원 유방갑상선 진료과목 브로셔입니다.
+담소유병원 유방갑상선 진료과목 홍보책자 & 브로셔입니다.
 DL company 재직중 클라이언트인 담소유병원에서 요청한 프로젝트입니다.
-4단 브로셔로 담소유병원 구범환 이사장의 취임과 동시에 유방갑상선 진료과목이 추가가 되어 홍보용 브로셔입니다.
+브로셔는 4단으로 담소유병원 구범환 이사장의 취임과 동시에 유방갑상선 진료과목이 추가가 되어 홍보용 책자, 브로셔입니다.
 
 
 > 고객사인 담소유병원에서 진료과목 추가가 되자 저희는 적극적으로 추가 진료과목의 **홍보성과 중요성**을 알리기 위해 발빠르게 대처했습니다.
@@ -38,13 +38,13 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
 
 ## Information
 
-담소유병원 유방갑상선 브로셔 제작에 대한 간략한 소개 입니다.
+담소유병원 유방갑상선 홍보책자, 브로셔 제작에 대한 간략한 소개 입니다.
 
-- **프로젝트명 :** 담소유병원 '유방갑상선' Brochure 제작
+- **프로젝트명 :** 담소유병원 '유방갑상선' Book & Brochure 제작
 - **참여인원 :** 1 [디자이너 1]
 - **기 간 :** 2016.05 ~ 2016.06  
 - **해당 포지션 :** Plan, Edit Design
-- **Device :** Brochure
+- **Device :** Book & Brochure
 - **공헌도 :** 100%
 - **Program :** Adobe Photoshop, Adobe Illustrator, Adobe Indesign
 
@@ -53,8 +53,8 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
 
 ## Images
 
-담소유병원 유방갑상선 브로셔 이미지입니다.<br>
-Front / Back
+담소유병원 유방갑상선 홍보책자, 브로셔 이미지입니다.<br>
+표지 / 유방클리닉 / 갑상선 / Front / Back
 
 <section class="quotes">
   <div class="bubble">

@@ -4,8 +4,8 @@ layout: post
 title: 화승치즈볼로냐
 subtitle: Package 리뉴얼
 description: 면사랑 PB제품 용기면 화승치즈볼로냐 리뉴얼 패키지입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: /assets/img/top/top-hwaseong.jpg
+optimized_image: /assets/img/sumnail/sumnail-hwaseong.jpg
 category: Package
 tags:
   - Noodlelovers

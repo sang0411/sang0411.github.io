@@ -63,6 +63,15 @@ Front / Back
   <div class="bubble">
     <img src="/assets/img/slide/breast-brochure02.jpg" /> 
   </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/breast-brochure03.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/breast-brochure04.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/breast-brochure05.jpg" /> 
+  </div>
 </section>
 
 

@@ -3,7 +3,7 @@ date: 2016-04-10 12:26:40
 layout: post
 title: 특성화클리닉 홍보영상
 subtitle: promotion Video
-description: 담소유병원 하지정맥류 진료과목 홍보책자입니다.
+description: 담소유병원 특성화클리닉 4종 홍보영상 입니다.
 image: /assets/img/top/top-damsoyuvideo.jpg
 optimized_image: /assets/img/sumnail/sumnail-damsoyuvideo.jpg
 category: video

@@ -4,8 +4,8 @@ layout: post
 title: 담소유병원 하지정맥류
 subtitle: Brochure Print
 description: 3단 브로셔로 담소유병원의 진료과목 하지정맥류 홍보 브로셔입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: /assets/img/top/top-hajibrocure.jpg
+optimized_image: /assets/img/sumnail/sumnail-hajibrocure.jpg
 category: Brochure
 tags:
   - Damsoyu

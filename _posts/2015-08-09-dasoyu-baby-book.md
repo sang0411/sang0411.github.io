@@ -2,11 +2,11 @@
 date: 2015-08-10 12:26:40
 layout: post
 title: 담소유병원 소아탈장
-subtitle: Book Print
-description: 담소유병원 소아탈장 진료과목 홍보책자입니다.
+subtitle: Book & Brochure Print
+description: 담소유병원 소아탈장 진료과목 홍보책자 & 브로셔입니다.
 image: /assets/img/top/top-babybook.jpg
 optimized_image: /assets/img/sumnail/sumnail-babybook.jpg
-category: Book
+category: Book & Brochure
 tags:
   - Damsoyu
   - hospital
@@ -36,13 +36,13 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
 
 ## Information
 
-담소유병원 소아탈장 홍보책자 제작에 대한 간략한 소개 입니다.
+담소유병원 소아탈장 홍보책자, 브로셔 제작에 대한 간략한 소개 입니다.
 
-- **프로젝트명 :** 담소유병원 '소아탈장' Book 제작
+- **프로젝트명 :** 담소유병원 '소아탈장' Book & Brochure 제작
 - **참여인원 :** 1 [디자이너 1]
 - **기 간 :** 2015.06 ~ 2015.08
 - **해당 포지션 :** Plan, Edit Design
-- **Device :** Book
+- **Device :** Book & Brochure
 - **공헌도 :** 100%
 - **Program :** Adobe Photoshop, Adobe Illustrator, Adobe Indesign
 
@@ -51,8 +51,8 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
 
 ## Images
 
-담소유병원 소아탈장 홍보책자 이미지입니다.<br>
-표지 / Section / 목차 / 의료진 소개 / 담석증의 이해 / 수술장점
+담소유병원 소아탈장 홍보책자, 브로셔 이미지입니다.<br>
+표지 / Section / 목차 / 의료진 소개 / 담석증의 이해 / 수술장점 / 브로셔 3종류
 
 <section class="quotes">
   <div class="bubble">
@@ -87,6 +87,24 @@ DL company 재직중 클라이언트인 담소유병원에서 요청한 프로�
   </div>
   <div class="bubble">
     <img src="/assets/img/slide/kid-book11.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/kid-book12.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/kid-book13.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/kid-book14.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/kid-book15.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/kid-book16.jpg" /> 
+  </div>
+  <div class="bubble">
+    <img src="/assets/img/slide/kid-book17.jpg" /> 
   </div>
 </section>
 

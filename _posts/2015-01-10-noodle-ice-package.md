@@ -4,8 +4,8 @@ layout: post
 title: 냉동면 5종
 subtitle: Package 리뉴얼
 description: 면사랑 냉동면 5종 리뉴얼 패키지입니다.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: /assets/img/top/top-noodlepackage.jpg
+optimized_image: /assets/img/sumnail/sumnail-noodlepackage.jpg
 category: Package
 tags:
   - Noodlelovers

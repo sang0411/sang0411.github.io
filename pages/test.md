@@ -1,8 +1,8 @@
 ---
-title: Work
+title: test
 layout: page
 description: Some description.
-permalink: "/work/"
+permalink: "/test/"
 ---
 
 <style>

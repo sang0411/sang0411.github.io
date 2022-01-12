@@ -1,0 +1,156 @@
+---
+title: Work
+layout: page
+description: Some description.
+permalink: "/work/"
+---
+
+<style>
+
+.post-content .pt130{padding-top:130px;}
+
+
+@media (max-width: 620px) {
+    .content{height:unset;}
+
+}
+@media (max-width: 1500px) {
+    .content{height:unset;}
+
+}
+</style>
+
+<!-- <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200"> -->
+<p class="pt130"></p>
+
+
+<!-- Posts -->
+<main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}">
+    
+<!-- Posts -->
+<section id="grid" class="row flex-grid">
+    {% for post in posts offset: offset %}
+        <article class="box-item">
+            <span class="category">
+                <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
+                    <span>{{ post.category }}</span>
+                </a>
+            </span>
+            <div class="box-body">
+                <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
+                    {% include loader.html %}
+                    {% if post.optimized_image %}
+                        <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image }}" class="preload">
+                        <noscript>
+                            <img src="{{ post.optimized_image }}" width="100%">
+                        </noscript>
+                    {% elsif post.image %}
+                        <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.image }}" class="preload">
+                        <noscript>
+                            <img src="{{ post.image }}" width="100%">
+                        </noscript>
+                    {% else %}
+                        <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
+                        <noscript>
+                            <img src="/assets/img/off.jpg" width="100%">
+                        </noscript>
+                    {% endif %}
+                    {% include new-post-tag.html date=post.date %}
+                    {% include read-icon.html %}
+                </a>
+                <div class="box-info">
+                    <time datetime="{{ post.date | date_to_xmlschema }}" class="date">
+                        {% include date.html date=post.date %}
+                    </time>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                        <h2 class="post-title">
+                            {{ post.title }}
+                        </h2>
+                    </a>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                        <p class="description">{{ post.description }}</p>
+                    </a>
+                    <div class="tags">
+                        {% for tag in post.tags %}
+                            {% if tag != "" %}
+                                <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </article>
+    {% endfor %}
+</section>
+<!-- Pagination -->
+{% if site.paginate %}
+    {% include pagination-home.html %}
+{% endif %}
+</main>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "mainEntity": {
+    "@type": "Blog",
+    "name": "{{ site.name }}",
+    "headline": "{{ site.title }}",
+    "description": "{{ site.description }}",
+    "url": "{{ site.url }}{{site.baseurl}}/",
+    "inLanguage": "{{ site.language }}",
+    "isFamilyFriendly": "true",
+    "creator": {
+        "@type": "Organization",
+        "name": "{{ site.name }}",
+        "url": "{{ site.url }}{{site.baseurl}}/",
+        "sameAs": [
+            {{ social_urls | split: "," | join: "," }}
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+        {% assign limit = 8 %}
+        {% for post in posts limit: limit %}
+            {% assign author = site.authors | where: "name", post.author | first %}
+            {
+                "@type": "BlogPosting",
+                "name": "{{ post.title }}",
+                "headline": "{{ post.subtitle }}",
+                "description": "{{ post.description }}",
+                "image": "{{ post.image }}",
+                "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+                "inLanguage": "{{ site.language }}",
+                "dateCreated": "{{ post.date | date: '%Y-%m-%d/' }}",
+                "datePublished": "{{ post.date | date: '%Y-%m-%d/' }}",
+                "dateModified": "{{ post.date | date: '%Y-%m-%d/' }}",
+                "author": {
+                    "@type": "Person",
+                    "name": "{{ author.display_name }}",
+                    "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ site.name }}",
+                    "url": "{{ site.url }}{{site.baseurl}}/",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ site.url }}{{site.baseurl}}/assets/img/blog-image.png",
+                        "width": "600",
+                        "height": "315"
+                    }
+                },
+                "mainEntityOfPage": "True",
+                "genre": "{{ post.category | capitalize }}",
+		        "articleSection": "{{ post.category | capitalize }}",
+                "keywords": [{{ post.tags | join: '","' | append: '"' | prepend: '"' }}]
+            }{% if forloop.last == false  %},{% endif %}
+        {% endfor %}
+        ]
+    }
+  }
+}
+</script>
+

@@ -18,31 +18,6 @@ permalink: "/work/"
 {% endif %}
 
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}">
-    {% if site.show_hero and paginator == nil or paginator.page == 1 %}
-        <!-- Hero -->
-        {% assign featured = posts.first %}
-        <section class="hero" style="background-image: url({{ featured.image }})">
-            <div class="pixels"></div>
-            <div class="gradient"></div>
-            <div class="content">
-                <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
-                    {% if site.date_format == nil %}
-                        {{ featured.date | date: "%m.%d.%Y" }}
-                    {% else %}
-                        {{ featured.date | date: site.date_format }}
-                    {% endif %}
-                </time>
-                <h1 class="title">{{ featured.title }}</h1>
-                <p class="description">{{ featured.subtitle }}</p>
-                <div class="buttons">
-                    <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
-                        <svg><use xlink:href="#icon-read"></use></svg>
-                        <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
-                    </a>
-                </div>
-            </div>
-        </section>
-    {% endif %}
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
         {% for post in posts offset: offset %}

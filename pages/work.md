@@ -5,6 +5,12 @@ description: Some description.
 permalink: "/work/"
 ---
 
+<style>
+    .post{background-color:#141414;}
+    .box-item .box-body h2{padding:0;}
+</style>
+
+
 {% if site.paginate %}
     {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
 {% else %}

@@ -19,107 +19,235 @@
     } ,
   
     {
-      "title"    : "The quick brown fox jumps over a lazy dog",
-      "tags"     : "css and tips",
-      "categories" : "css",
-      "url"      : "/the-quick-brown-fox-jumps-over-a-lazy-dog/",
-      "date"     : "10/09/2018"
+      "title"    : "정도경영 GAMASOT",
+      "tags"     : "Dong-A Socio Group, web, design, publising, and pc",
+      "categories" : "web",
+      "url"      : "/jeongdo/",
+      "date"     : "04/04/2020"
     } ,
   
     {
-      "title"    : "A wonderful serenity has taken possession of my entire soul",
-      "tags"     : "platform, javascript, and vscode",
-      "categories" : "code",
-      "url"      : "/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/",
-      "date"     : "07/20/2018"
+      "title"    : "마이보라&amp;멜리안",
+      "tags"     : "Dong-A Pharm, web, design, pc, and mobile",
+      "categories" : "web",
+      "url"      : "/myvlar-melian/",
+      "date"     : "03/05/2020"
     } ,
   
     {
-      "title"    : "Candy, candies, candy!",
-      "tags"     : "food and tips",
-      "categories" : "diet",
-      "url"      : "/candy-candies-candy/",
-      "date"     : "04/21/2018"
+      "title"    : "Kid키득",
+      "tags"     : "Dong-A Socio Group, app, design, and mobile",
+      "categories" : "app",
+      "url"      : "/kidkuck/",
+      "date"     : "11/21/2019"
     } ,
   
     {
-      "title"    : "Trust me, it will work",
-      "tags"     : "languages and tips",
-      "categories" : "tips",
-      "url"      : "/trust-me-it-will-work/",
-      "date"     : "03/12/2018"
+      "title"    : "ZARADA",
+      "tags"     : "Dong-A ST, app, design, and mobile",
+      "categories" : "app",
+      "url"      : "/zarada/",
+      "date"     : "06/12/2019"
     } ,
   
     {
-      "title"    : "How to turn your dog into a Jedi master",
-      "tags"     : "jedi, doggo, and starwars",
-      "categories" : "tutorial",
-      "url"      : "/how-to-turn-your-dog-into-a-jedi-master/",
-      "date"     : "02/03/2018"
+      "title"    : "DA인포메이션 Catalog",
+      "tags"     : "Dong-A Socio Group, edit, design, and print",
+      "categories" : "Catalog",
+      "url"      : "/dainfo-catalog/",
+      "date"     : "11/10/2018"
     } ,
   
     {
-      "title"    : "Let flexbox work for you or perish",
-      "tags"     : "css and frontend",
-      "categories" : "css",
-      "url"      : "/let-flexbox-work-for-you-or-perish/",
-      "date"     : "08/15/2017"
+      "title"    : "박카스",
+      "tags"     : "Dong-A Socio Group, web, design, pc, and mobile",
+      "categories" : "web",
+      "url"      : "/bacchusd/",
+      "date"     : "09/11/2018"
     } ,
   
     {
-      "title"    : "A star has fallen from the sky and the cat ate it",
-      "tags"     : "crazy and story",
-      "categories" : "music",
-      "url"      : "/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/",
+      "title"    : "DA인포메이션",
+      "tags"     : "Dong-A Socio Group, web, design, publising, pc, and mobile",
+      "categories" : "web",
+      "url"      : "/dainfo/",
+      "date"     : "06/06/2018"
+    } ,
+  
+    {
+      "title"    : "마이보라",
+      "tags"     : "Dong-A Pharm, web, design, pc, and mobile",
+      "categories" : "web",
+      "url"      : "/myvlar/",
+      "date"     : "06/04/2018"
+    } ,
+  
+    {
+      "title"    : "ST Pharm",
+      "tags"     : "Dong-A Socio Group, web, design, pc, and mobile",
+      "categories" : "web",
+      "url"      : "/stpharm/",
+      "date"     : "02/08/2018"
+    } ,
+  
+    {
+      "title"    : "Idea Factory",
+      "tags"     : "Dong-A Pharm, web, design, and pc",
+      "categories" : "web",
+      "url"      : "/idea-factory/",
+      "date"     : "10/29/2017"
+    } ,
+  
+    {
+      "title"    : "NS Investment",
+      "tags"     : "Dong-A Socio Group, web, design, publising, pc, and mobile",
+      "categories" : "web",
+      "url"      : "/nsi/",
       "date"     : "08/08/2017"
     } ,
   
     {
-      "title"    : "Smoke alert",
-      "tags"     : "jekyll, wordpress, and blog",
-      "categories" : "blog",
-      "url"      : "/smoke-alert/",
-      "date"     : "07/29/2017"
+      "title"    : "동아쏘시오그룹 우리사주",
+      "tags"     : "Dong-A Socio Group, web, design, and pc",
+      "categories" : "web",
+      "url"      : "/woori-sazu/",
+      "date"     : "07/03/2017"
     } ,
   
     {
-      "title"    : "Do you believe that a spider can dance?",
-      "tags"     : "fate and travel",
-      "categories" : "travel",
-      "url"      : "/do-you-believe-that-a-spider-can-dance/",
-      "date"     : "06/08/2017"
+      "title"    : "대한결핵협회",
+      "tags"     : "Dong-A Socio Holdings, app, design, and mobile",
+      "categories" : "app",
+      "url"      : "/share-me/",
+      "date"     : "06/15/2017"
     } ,
   
     {
-      "title"    : "A cook cries in the rain at night",
-      "tags"     : "cook, cucine, and story",
-      "categories" : "diet",
-      "url"      : "/a-cook-cries-in-the-rain-at-night/",
-      "date"     : "06/04/2017"
+      "title"    : "동아제약 CCM",
+      "tags"     : "Dong-A Pharm, web, design, and pc",
+      "categories" : "web",
+      "url"      : "/pharm-ccm/",
+      "date"     : "02/03/2017"
     } ,
   
     {
-      "title"    : "Grab your band and get out",
-      "tags"     : "music, band, and passion",
-      "categories" : "music",
-      "url"      : "/grab-your-band-and-get-out/",
-      "date"     : "05/11/2017"
+      "title"    : "동아ST CCM",
+      "tags"     : "Dong-A Pharm, web, design, and pc",
+      "categories" : "web",
+      "url"      : "/st-ccm/",
+      "date"     : "12/03/2016"
     } ,
   
     {
-      "title"    : "Passion is dangerous, go for it!",
-      "tags"     : "work and career",
-      "categories" : "work",
-      "url"      : "/passion-is-dangerous-go-for-it/",
-      "date"     : "09/06/2015"
+      "title"    : "담소유병원 유방갑상선",
+      "tags"     : "Damsoyu, hospital, edit, design, and print",
+      "categories" : "Book & Brochure",
+      "url"      : "/dasoyu-yubang-brochure/",
+      "date"     : "06/10/2016"
     } ,
   
     {
-      "title"    : "Birds can fly, but this you knew already",
-      "tags"     : "life and tips",
-      "categories" : "life",
-      "url"      : "/birds-can-fly-but-this-you-knew-already/",
-      "date"     : "09/10/2010"
+      "title"    : "담소유병원 하지정맥류",
+      "tags"     : "Damsoyu, hospital, edit, design, and print",
+      "categories" : "Book",
+      "url"      : "/dasoyu-haji-book/",
+      "date"     : "05/10/2016"
+    } ,
+  
+    {
+      "title"    : "특성화클리닉 홍보영상",
+      "tags"     : "Damsoyu, hospital, video, and design",
+      "categories" : "video",
+      "url"      : "/dasoyu-video/",
+      "date"     : "04/10/2016"
+    } ,
+  
+    {
+      "title"    : "담소유병원 부유방&amp;여유증",
+      "tags"     : "Damsoyu, hospital, edit, design, and print",
+      "categories" : "Brochure",
+      "url"      : "/dasoyu-buyubang-brochure/",
+      "date"     : "03/10/2016"
+    } ,
+  
+    {
+      "title"    : "담소유병원 하지정맥류",
+      "tags"     : "Damsoyu, hospital, edit, design, and print",
+      "categories" : "Brochure",
+      "url"      : "/dasoyu-haji-brochure/",
+      "date"     : "03/08/2016"
+    } ,
+  
+    {
+      "title"    : "UI 홍보영상",
+      "tags"     : "UI, video, and design",
+      "categories" : "video",
+      "url"      : "/ui-video/",
+      "date"     : "12/10/2015"
+    } ,
+  
+    {
+      "title"    : "담소유병원 특성화클리닉",
+      "tags"     : "Damsoyu, hospital, web, design, pc, and mobile",
+      "categories" : "web",
+      "url"      : "/dasoyu-special/",
+      "date"     : "12/01/2015"
+    } ,
+  
+    {
+      "title"    : "담소유병원 단일통로복강경",
+      "tags"     : "Damsoyu, hospital, edit, design, and print",
+      "categories" : "Book & Brochure",
+      "url"      : "/dasoyu-singleport-book/",
+      "date"     : "10/10/2015"
+    } ,
+  
+    {
+      "title"    : "담소유병원 소아탈장",
+      "tags"     : "Damsoyu, hospital, edit, design, and print",
+      "categories" : "Book & Brochure",
+      "url"      : "/dasoyu-baby-book/",
+      "date"     : "08/10/2015"
+    } ,
+  
+    {
+      "title"    : "면사랑 Catalog",
+      "tags"     : "Noodlelovers, edit, design, and print",
+      "categories" : "Catalog",
+      "url"      : "/noodle-catalog/",
+      "date"     : "03/10/2015"
+    } ,
+  
+    {
+      "title"    : "면사랑 Truck Graphic",
+      "tags"     : "Noodlelovers, graphic, and design",
+      "categories" : "Graphic",
+      "url"      : "/noodle-truck/",
+      "date"     : "03/09/2015"
+    } ,
+  
+    {
+      "title"    : "해물맛 라볶이",
+      "tags"     : "Noodlelovers, package, and design",
+      "categories" : "Package",
+      "url"      : "/noodle-package01/",
+      "date"     : "03/07/2015"
+    } ,
+  
+    {
+      "title"    : "화승치즈볼로냐",
+      "tags"     : "Noodlelovers, package, and design",
+      "categories" : "Package",
+      "url"      : "/noodle-package02/",
+      "date"     : "02/07/2015"
+    } ,
+  
+    {
+      "title"    : "냉동면 5종",
+      "tags"     : "Noodlelovers, package, and design",
+      "categories" : "Package",
+      "url"      : "/noodle-ice-package/",
+      "date"     : "01/10/2015"
     } 
   
 ]

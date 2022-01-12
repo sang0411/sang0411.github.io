@@ -185,6 +185,14 @@
             
         </url>
     
+        <url>
+            <loc>http://localhost:4000/work/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
     
         <url>
             <loc>http://localhost:4000/welcome-to-the-desert-of-the-real/2/</loc>
@@ -215,94 +223,206 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/the-quick-brown-fox-jumps-over-a-lazy-dog/</loc>
+            <loc>http://localhost:4000/jeongdo/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2018-10-09</lastmod>
+            <lastmod>2020-04-04</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</loc>
+            <loc>http://localhost:4000/myvlar-melian/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2018-07-20</lastmod>
+            <lastmod>2020-03-05</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/candy-candies-candy/</loc>
+            <loc>http://localhost:4000/kidkuck/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2018-04-21</lastmod>
+            <lastmod>2019-11-21</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/trust-me-it-will-work/</loc>
+            <loc>http://localhost:4000/zarada/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2018-03-12</lastmod>
+            <lastmod>2019-06-12</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/how-to-turn-your-dog-into-a-jedi-master/</loc>
+            <loc>http://localhost:4000/dainfo-catalog/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2018-02-03</lastmod>
+            <lastmod>2018-11-10</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/let-flexbox-work-for-you-or-perish/</loc>
+            <loc>http://localhost:4000/bacchusd/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2017-08-15</lastmod>
+            <lastmod>2018-09-11</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</loc>
+            <loc>http://localhost:4000/dainfo/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-06-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/myvlar/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-06-04</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/stpharm/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-02-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/idea-factory/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-10-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nsi/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2017-08-08</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/smoke-alert/</loc>
+            <loc>http://localhost:4000/woori-sazu/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2017-07-29</lastmod>
+            <lastmod>2017-07-03</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/do-you-believe-that-a-spider-can-dance/</loc>
+            <loc>http://localhost:4000/share-me/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2017-06-08</lastmod>
+            <lastmod>2017-06-15</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/a-cook-cries-in-the-rain-at-night/</loc>
+            <loc>http://localhost:4000/pharm-ccm/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2017-06-04</lastmod>
+            <lastmod>2017-02-03</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/grab-your-band-and-get-out/</loc>
+            <loc>http://localhost:4000/st-ccm/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2017-05-11</lastmod>
+            <lastmod>2016-12-03</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/passion-is-dangerous-go-for-it/</loc>
+            <loc>http://localhost:4000/dasoyu-yubang-brochure/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2015-09-06</lastmod>
+            <lastmod>2016-06-10</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/birds-can-fly-but-this-you-knew-already/</loc>
+            <loc>http://localhost:4000/dasoyu-haji-book/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2010-09-10</lastmod>
+            <lastmod>2016-05-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/dasoyu-video/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2016-04-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/dasoyu-buyubang-brochure/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2016-03-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/dasoyu-haji-brochure/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2016-03-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/ui-video/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-12-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/dasoyu-special/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-12-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/dasoyu-singleport-book/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-10-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/dasoyu-baby-book/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-08-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/noodle-catalog/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-03-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/noodle-truck/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-03-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/noodle-package01/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-03-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/noodle-package02/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-02-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/noodle-ice-package/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2015-01-10</lastmod>
         </url>
     
     

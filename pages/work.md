@@ -8,6 +8,10 @@ permalink: "/work/"
 <style>
     .post{background-color:#141414;}
     .box-item .box-body h2{padding:0;}
+    body.light:not(.main-page) .bar-header {
+    background-color: rgba(0,0,0,0.95);
+    }
+    footer{display:unset;}
 </style>
 
 

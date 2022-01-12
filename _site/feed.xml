@@ -5,51 +5,9 @@
     <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jan 2022 15:12:18 +0900</pubDate>
-    <lastBuildDate>Wed, 12 Jan 2022 15:12:18 +0900</lastBuildDate>
+    <pubDate>Wed, 12 Jan 2022 17:52:26 +0900</pubDate>
+    <lastBuildDate>Wed, 12 Jan 2022 17:52:26 +0900</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
-    
-      <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt; &lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur....</description>
-        <pubDate>Mon, 20 Dec 2021 21:26:40 +0900</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/2/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/2/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Mon, 20 Dec 2021 21:26:40 +0900</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
-    
-      <item>
-        <title>Welcome to the desert of the real</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Mon, 20 Dec 2021 21:26:40 +0900</pubDate>
-        <link>http://localhost:4000/welcome-to-the-desert-of-the-real/view-all/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-the-desert-of-the-real/view-all/</guid>
-        
-        <category>welcome</category>
-        
-        <category>blog</category>
-        
-        <category>blog</category>
-      </item>
     
       <item>
         <title>아벤종합건설</title>
@@ -567,6 +525,54 @@
         <category>design</category>
         
         <category>Graphic</category>
+      </item>
+    
+      <item>
+        <title>해물맛 라볶이</title>
+        <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick.css&quot; /&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick-theme.css&quot; /&gt; &lt;p&gt;면사랑 NB제품 용기면 냉동 해물맛라볶이 리뉴얼 패키지입니다. 슬리브 패키지 디자인으로 해물과 떡볶이의 조화를 표현하는데 주력했습니다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;편의점 상품으로 냉동,해산물 제품을 표현하는 것과 떡볶이의 이미지를 조화시키기 위해 &lt;strong&gt;블루계열에 떡볶이 자체 이미지 붉은 계열의 조합&lt;/strong&gt;을 선택했습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;주 타겟이 10,20대 소비자들이기에 편의점에서 시선을 끌 수 있는 방법을 많이 고민했었고, 떡볶이라해서 붉은색만 사용하는 것이 아닌 냉동 및 해산물 느낌의 블루계열, 떡볶이의 붉은 계열을 선택하여 패키지 디자인을 했습니다.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;information&quot;&gt;Information&lt;/h2&gt; &lt;p&gt;면사랑 NB 용기면 냉동 해물맛라볶이 리뉴얼 패키지 제작에 대한 간략한 소개 입니다.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;프로젝트명 :&lt;/strong&gt; 면사랑 ‘NB 용기면 냉동 해물맛라볶이’ 리뉴얼 패키지&lt;/li&gt; &lt;li&gt;&lt;strong&gt;참여인원 :&lt;/strong&gt; 2...</description>
+        <pubDate>Sat, 07 Mar 2015 21:26:40 +0900</pubDate>
+        <link>http://localhost:4000/noodle-package01/</link>
+        <guid isPermaLink="true">http://localhost:4000/noodle-package01/</guid>
+        
+        <category>Noodlelovers</category>
+        
+        <category>package</category>
+        
+        <category>design</category>
+        
+        <category>Package</category>
+      </item>
+    
+      <item>
+        <title>화승치즈볼로냐</title>
+        <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick.css&quot; /&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick-theme.css&quot; /&gt; &lt;p&gt;면사랑 PB제품 용기면 화승치즈볼로냐 리뉴얼 패키지입니다. 처음 해본 패키지디자인으로 신입사원인 저에게는 설레임이 있던 디자인입니다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;좁은 슬리브안에 제품의 정보와 제품이미지, 타이틀을 넣을때 무엇이 먼저 보여야할지 &lt;strong&gt;위계 질서&lt;/strong&gt;를 정하여 디자인했습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;면사랑에서 제품의 타이틀을 캘리그라피 위주로 넣는 시스템이었습니다. 평소 폰트로 사용하던 저에게는 생소하고 어려운 캘리그라피었습니다. 하지만 캘리그라피를 만들때 사람마다의 각각 다른 스타일이 나타나며, 캘리의 멋진 글씨를 보면서 저만의 색깔을 찾았던 경험이었습니다.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;information&quot;&gt;Information&lt;/h2&gt; &lt;p&gt;면사랑 PB제품 용기면 화승치즈볼로냐 리뉴얼 패키지 제작에 대한 간략한 소개 입니다.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;프로젝트명 :&lt;/strong&gt; 면사랑 ‘PB 용기면 화승치즈볼로냐’ 리뉴얼 패키지&lt;/li&gt; &lt;li&gt;&lt;strong&gt;참여인원 :&lt;/strong&gt; 2 [디자이너 2]&lt;/li&gt; &lt;li&gt;&lt;strong&gt;기 간 :&lt;/strong&gt; 2015.01...</description>
+        <pubDate>Sat, 07 Feb 2015 21:26:40 +0900</pubDate>
+        <link>http://localhost:4000/noodle-package02/</link>
+        <guid isPermaLink="true">http://localhost:4000/noodle-package02/</guid>
+        
+        <category>Noodlelovers</category>
+        
+        <category>package</category>
+        
+        <category>design</category>
+        
+        <category>Package</category>
+      </item>
+    
+      <item>
+        <title>냉동면 5종</title>
+        <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick.css&quot; /&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slick-theme.css&quot; /&gt; &lt;p&gt;면사랑 냉동면 5종 리뉴얼 패키지입니다. 칼국수, 사누끼우동, 중화면, 스파게티, 메밀면 5종입니다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;기존의 냉동면의 복잡하던 디자인을 &lt;strong&gt;심플한 그래픽&lt;/strong&gt;으로 방향성을 가지고 갔습니다.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;냉동면의 다양한 5종을 나라별 색상과 대표 건축물을 통해 구분을 했습니다. 신입사원이었던 저에게는 기존의 통일성있는 옐로우 계통의 색상이 면들의 종류를 구분하기가 어렵다고 판단하였고, 심플한 그래픽을 통해 쉬운 구분과 비치는 안의 내용물까지 확인하기 쉽게 디자인했습니다.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;information&quot;&gt;Information&lt;/h2&gt; &lt;p&gt;면사랑 냉동면 5종 리뉴얼 패키지 제작에 대한 간략한 소개 입니다.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;프로젝트명 :&lt;/strong&gt; 면사랑 ‘냉동면 5종’ 리뉴얼 패키지&lt;/li&gt; &lt;li&gt;&lt;strong&gt;참여인원 :&lt;/strong&gt; 3 [디자이너 3]&lt;/li&gt; &lt;li&gt;&lt;strong&gt;기 간 :&lt;/strong&gt; 2014.12 ~ 2015.01&lt;/li&gt; &lt;li&gt;&lt;strong&gt;해당 포지션 :&lt;/strong&gt; Plan, Package...</description>
+        <pubDate>Sat, 10 Jan 2015 21:26:40 +0900</pubDate>
+        <link>http://localhost:4000/noodle-ice-package/</link>
+        <guid isPermaLink="true">http://localhost:4000/noodle-ice-package/</guid>
+        
+        <category>Noodlelovers</category>
+        
+        <category>package</category>
+        
+        <category>design</category>
+        
+        <category>Package</category>
       </item>
     
   </channel>

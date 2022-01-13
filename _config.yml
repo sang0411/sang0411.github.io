@@ -19,8 +19,8 @@ menu:
     url: /work  
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Tags
+    url: /tags
 email: 2003lsh2003@naver.com
 # See: https://disqus.com/
 disqus_username: disqus_username

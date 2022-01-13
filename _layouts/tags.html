@@ -4,6 +4,10 @@ layout: minimal
 
 {% assign date_format = site.date_format | default: "%m/%d/%Y" %}
 
+<style>
+  .post-content a {color: #000;}
+</style>
+
 <div class="tags">
   {% assign tags_list = site.tags %}
     {% if tags_list.first[0] == null %}

@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/uploads/profile.png
 name: thiagorossener
 display_name: Sang-hyun Lee
-position: Chief Editor
+position: Web / App / Edit
 bio: Just a Designer.
 linkedin_username: sang-hyun-lee-5821561b1/
 instagram_username: leesanghyun.jpg/?hl=ko

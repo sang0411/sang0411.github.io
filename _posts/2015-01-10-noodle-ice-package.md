@@ -12,7 +12,6 @@ tags:
   - package
   - design
 author: thiagorossener
-paginate: true
 ---
 
 

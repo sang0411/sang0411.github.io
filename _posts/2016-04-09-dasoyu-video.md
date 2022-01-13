@@ -9,7 +9,6 @@ optimized_image: /assets/img/sumnail/sumnail-damsoyuvideo.jpg
 category: video
 tags:
   - Damsoyu
-  - hospital
   - video
   - design
 author: thiagorossener

@@ -9,7 +9,6 @@ optimized_image: /assets/img/sumnail/sumnail-hajibrochure.jpg
 category: Brochure
 tags:
   - Damsoyu
-  - hospital
   - edit
   - design
   - print

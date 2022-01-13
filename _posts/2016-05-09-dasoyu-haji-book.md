@@ -9,7 +9,6 @@ optimized_image: /assets/img/sumnail/sumnail-hajibook.jpg
 category: Book
 tags:
   - Damsoyu
-  - hospital
   - edit
   - design
   - print

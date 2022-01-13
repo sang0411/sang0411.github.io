@@ -9,7 +9,6 @@ optimized_image: /assets/img/sumnail/sumnail-damsoyuhomepage.jpg
 category: web
 tags:
   - Damsoyu
-  - hospital
   - web
   - design
   - pc

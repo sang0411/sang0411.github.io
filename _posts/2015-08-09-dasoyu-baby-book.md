@@ -9,7 +9,6 @@ optimized_image: /assets/img/sumnail/sumnail-babybook.jpg
 category: Book & Brochure
 tags:
   - Damsoyu
-  - hospital
   - edit
   - design
   - print

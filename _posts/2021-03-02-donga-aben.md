@@ -13,7 +13,7 @@ tags:
   - design
   - pc
   - mobile
-author: thiagorossener
+author: Sang-hyun Lee
 paginate: true
 ---
 

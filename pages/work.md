@@ -14,6 +14,7 @@ permalink: "/work/"
     body.light:not(.main-page) .bar-header .icon-search, body.light:not(.main-page) .bar-header .icon-menu {fill: #fff;}
     body.light:not(.main-page) .bar-header {background-color: rgba(0,0,0,0.95);}
     footer{display:none;}
+    .box-item:last-child{display:none;}
 </style>
 
 

@@ -35,7 +35,7 @@ layout: page
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
-        <button type="submit" onclick="window.open();">{{ site.translations.contact.submit_btn | default:  "Send" }}</button>
+        <button type="submit">{{ site.translations.contact.submit_btn | default:  "Send" }}</button>
       </fieldset>
     </form>
   </div>

@@ -19,7 +19,7 @@ layout: page
     <!-- <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{% if site.formspree_form_id %}f/{{ site.formspree_form_id }}{% else %}{{ site.email }}{% endif %}" v-on:submit.prevent="validateBeforeSubmit" ref="contact"></form> -->
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/f/myyokzgy" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
-        <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
+        <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: '블로그에서 새로운 연락이 왔습니다.' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
         <input type="hidden" name="_language" value="{{ site.language }}" />
 
@@ -55,7 +55,7 @@ function adjust_textarea(h) {
 Vue.use(VeeValidate);
 
 const dictionary = {
-  {{ site.translations.contact.errors.locale | default: 'en' }}: {
+  {{ site.translations.contact.errors.locale | default: 'ko' }}: {
     custom: {
       name: {
         required: "{{ site.translations.contact.errors.empty_name | default: 'Name is required' }}"
@@ -72,7 +72,7 @@ const dictionary = {
 };
 
 VeeValidate.Validator.updateDictionary(dictionary);
-VeeValidate.Validator.setLocale("{{ site.translations.contact.errors.locale | default: 'en' }}");
+VeeValidate.Validator.setLocale("{{ site.translations.contact.errors.locale | default: 'ko' }}");
 
 new Vue({
   el: '#form',

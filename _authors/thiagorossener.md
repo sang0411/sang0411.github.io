@@ -12,8 +12,3 @@ github_username: none
 twitter_username: none
 medium_username: none
 ---
-
-<style>
-    .post-content a{color:#000;}
-    .post-content li:before{content: "-";}
-</style>

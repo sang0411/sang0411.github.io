@@ -89,6 +89,10 @@ Hello! 반갑습니다.
 <span style="color:#ff0a16">Employment period :</span> 2016년 10월 ~ 재직중<br>
 <p></p>
 <ul>
+    <li>- 2021.07 ~ 2021.11</li>
+    <li>존슨앤존슨 물류시스템 홈페이지 구축</li>
+</ul>
+<ul>
     <li>- 2020.12 ~ 2021.03</li>
     <li>아벤종합건설 홈페이지 구축</li>
 </ul>

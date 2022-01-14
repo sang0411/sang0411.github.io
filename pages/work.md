@@ -10,6 +10,7 @@ permalink: "/work/"
     .box-item .box-body h2{padding:0;}
     .box-item .box-body p{padding:0;}
     .post-content .tags{margin:0; letter-spacing:0; line-height:0;}
+    .post-content.fullwidth{padding: padding: 3.75rem 0;}
     body.light:not(.main-page) .bar-header .logo a{color: #fff;} 
     body.light:not(.main-page) .bar-header .icon-search, body.light:not(.main-page) .bar-header .icon-menu {fill: #fff;}
     body.light:not(.main-page) .bar-header {background-color: rgba(0,0,0,0.95);}

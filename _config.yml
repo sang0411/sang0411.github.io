@@ -49,7 +49,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sang0411.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-217187411-1"
 language: "ko"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"

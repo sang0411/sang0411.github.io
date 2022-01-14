@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
+name: Sang-hyun Lee
 display_name: Sang-hyun Lee
 position: Web / App / Edit
 bio: Just a Designer.

@@ -9,11 +9,10 @@ optimized_image: /assets/img/sumnail/sumnail-damsoyuhomepage.jpg
 category: web
 tags:
   - Damsoyu
-  - web
-  - design
-  - pc
-  - mobile
-author: thiagorossener
+  - Web Design
+  - PC
+  - Mobile
+author: Sang-hyun Lee
 paginate: true
 ---
 

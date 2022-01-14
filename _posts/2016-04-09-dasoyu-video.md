@@ -9,9 +9,8 @@ optimized_image: /assets/img/sumnail/sumnail-damsoyuvideo.jpg
 category: video
 tags:
   - Damsoyu
-  - video
-  - design
-author: thiagorossener
+  - Video Design
+author: Sang-hyun Lee
 paginate: true
 ---
 

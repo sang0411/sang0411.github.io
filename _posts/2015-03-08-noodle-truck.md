@@ -9,9 +9,8 @@ optimized_image: /assets/img/sumnail/sumnail-noodletruck.jpg
 category: Graphic
 tags:
   - Noodlelovers
-  - graphic
-  - design
-author: thiagorossener
+  - Graphic Design
+author: Sang-hyun Lee
 paginate: true
 ---
 

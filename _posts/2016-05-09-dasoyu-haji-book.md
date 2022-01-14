@@ -9,10 +9,9 @@ optimized_image: /assets/img/sumnail/sumnail-hajibook.jpg
 category: Book
 tags:
   - Damsoyu
-  - edit
-  - design
-  - print
-author: thiagorossener
+  - Edit Design
+  - Print
+author: Sang-hyun Lee
 paginate: true
 ---
 

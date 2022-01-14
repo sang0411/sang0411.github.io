@@ -9,10 +9,9 @@ optimized_image: /assets/img/sumnail/sumnail-aben.jpg
 category: web
 tags:
   - Dong-A Socio Group
-  - web
-  - design
-  - pc
-  - mobile
+  - Web Design
+  - PC
+  - Mobile
 author: Sang-hyun Lee
 paginate: true
 ---

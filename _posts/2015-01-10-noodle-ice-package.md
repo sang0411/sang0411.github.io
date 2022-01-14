@@ -9,9 +9,8 @@ optimized_image: /assets/img/sumnail/sumnail-noodlepackage.jpg
 category: Package
 tags:
   - Noodlelovers
-  - package
-  - design
-author: thiagorossener
+  - Package Design
+author: Sang-hyun Lee
 ---
 
 

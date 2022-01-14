@@ -9,10 +9,9 @@ optimized_image: /assets/img/sumnail/sumnail-noodlecatalog.jpg
 category: Catalog
 tags:
   - Noodlelovers
-  - edit
-  - design
-  - print
-author: thiagorossener
+  - Edit Design
+  - Print
+author: Sang-hyun Lee
 paginate: true
 ---
 

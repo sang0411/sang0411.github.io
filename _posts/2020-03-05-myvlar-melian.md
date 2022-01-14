@@ -9,11 +9,10 @@ optimized_image: /assets/img/sumnail/sumnail-myvlar-melian.jpg
 category: web
 tags:
   - Dong-A Pharm
-  - web
-  - design
-  - pc
-  - mobile
-author: thiagorossener
+  - Web Design
+  - PC
+  - Mobile
+author: Sang-hyun Lee
 paginate: true
 ---
 

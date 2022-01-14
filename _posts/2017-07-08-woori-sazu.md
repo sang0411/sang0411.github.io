@@ -9,10 +9,9 @@ optimized_image: /assets/img/sumnail/sumnail-saju.jpg
 category: web
 tags:
   - Dong-A Socio Group
-  - web
-  - design
-  - pc
-author: thiagorossener
+  - Web Design
+  - PC
+author: Sang-hyun Lee
 paginate: true
 ---
 

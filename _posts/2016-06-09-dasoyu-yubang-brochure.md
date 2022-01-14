@@ -1,7 +1,7 @@
 ---
 date: 2016-06-10 12:26:40
 layout: post
-title: 담소유병원 유방갑상선
+title: 유방갑상선
 subtitle: Book & Brochure Print
 description: 담소유병원 유방갑상선 진료과목 홍보책자 & 브로셔입니다.
 image: /assets/img/top/top-yubangbrochure.jpg

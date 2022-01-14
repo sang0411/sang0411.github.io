@@ -1,7 +1,7 @@
 ---
 date: 2016-03-08 12:26:40
 layout: post
-title: 담소유병원 하지정맥류
+title: 하지정맥류
 subtitle: Brochure Print
 description: 3단 브로셔로 담소유병원의 진료과목 하지정맥류 홍보 브로셔입니다.
 image: /assets/img/top/top-hajibrochure.jpg

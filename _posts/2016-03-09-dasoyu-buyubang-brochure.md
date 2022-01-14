@@ -1,7 +1,7 @@
 ---
 date: 2016-03-10 12:26:40
 layout: post
-title: 담소유병원 부유방&여유증
+title: 부유방 & 여유증
 subtitle: Brochure Print
 description: 4단 브로셔로 담소유병원의 진료과목 부유방&여유증 홍보 브로셔입니다.
 image: /assets/img/top/top-buyubangbrochure.jpg

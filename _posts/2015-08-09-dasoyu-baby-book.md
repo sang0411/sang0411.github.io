@@ -1,7 +1,7 @@
 ---
 date: 2015-08-10 12:26:40
 layout: post
-title: 담소유병원 소아탈장
+title: 소아탈장
 subtitle: Book & Brochure Print
 description: 담소유병원 소아탈장 진료과목 홍보책자 & 브로셔입니다.
 image: /assets/img/top/top-babybook.jpg

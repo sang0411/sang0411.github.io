@@ -1,7 +1,7 @@
 ---
 date: 2015-10-10 12:26:40
 layout: post
-title: 담소유병원 단일통로복강경
+title: 단일통로복강경
 subtitle: Book & Brochure Print
 description: 담소유병원 단일통로복강경 진료과목 홍보책자 & 브로셔입니다.
 image: /assets/img/top/top-singleport.jpg

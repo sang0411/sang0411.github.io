@@ -1,7 +1,7 @@
 ---
 date: 2016-05-10 12:26:40
 layout: post
-title: 담소유병원 하지정맥류
+title: 하지정맥류
 subtitle: Book Print
 description: 담소유병원 하지정맥류 진료과목 홍보책자입니다.
 image: /assets/img/top/top-hajibook.jpg

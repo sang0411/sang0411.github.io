@@ -3,7 +3,7 @@ date: 2021-03-02 12:26:40
 layout: post
 title: 아벤종합건설
 subtitle: 홈페이지 반응형 리뉴얼 구축
-description: 동아쏘시오그룹의 건설 계열사입니다. 사명 변경과 함께 홈페이지 리뉴얼 프로젝트를 진행했습니다.
+description: 동아쏘시오그룹의 계열사입니다. 사명 변경과 함께 홈페이지 리뉴얼 프로젝트를 진행했습니다.
 image: /assets/img/top/top-aben.jpg
 optimized_image: /assets/img/sumnail/sumnail-aben.jpg
 category: web

@@ -50,7 +50,7 @@ Hello! 반갑습니다.
 저를 표현하자면 ‘끊임없이 성장하는 나무’라고 말하고 싶습니다.<br>
 성장하는 만큼 소속된 기업의 큰 열매를 맺을수 있게끔 앞장서서 최선을 다하겠습니다.
 
-저의 자세한 사항은 밑의 프로필을 보시면 될 것 같습니다.
+자세한 사항은 밑의 프로필을 보시면 될 것 같습니다.
 <p></p>
 <p></p>
 
@@ -195,14 +195,6 @@ Hello! 반갑습니다.
 <span style="color:#ff0a16">Position :</span> Web Design / Edit Design / Video Design <br>
 <span style="color:#ff0a16">Employment period :</span> 2015년 05월 ~ 2016년 06월<br>
 <p></p>
-<ul>
-    <li>- 2016.10 ~ 2016.12</li>
-    <li>동아ST 'CCM' 홈페이지 구축</li>
-</ul>
-<ul>
-    <li>- 2016.10 ~ 2016.12</li>
-    <li>동아ST 'CCM' 홈페이지 구축</li>
-</ul>
 <ul>
     <li>- 2016.05 ~ 2016.06</li>
     <li>담소유병원 '유방갑상선' Brochure 제작</li>
